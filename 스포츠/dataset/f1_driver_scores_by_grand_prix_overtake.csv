@@ -1,0 +1,2480 @@
+year,grand_prix,driver,total_score
+2018,Abu Dhabi,Max Verstappen,80.71929824561403
+2018,Abu Dhabi,Esteban Ocon,51.62280701754385
+2018,Abu Dhabi,Sergio Perez,35.666666666666664
+2018,Abu Dhabi,Sebastian Vettel,32.85087719298245
+2018,Abu Dhabi,Charles Leclerc,27.219298245614034
+2018,Abu Dhabi,Pierre Gasly,27.219298245614034
+2018,Abu Dhabi,Romain Grosjean,26.280701754385962
+2018,Abu Dhabi,Stoffel Vandoorne,16.89473684210526
+2018,Abu Dhabi,Daniel Ricciardo,15.956140350877192
+2018,Abu Dhabi,Lewis Hamilton,15.956140350877192
+2018,Abu Dhabi,Carlos Sainz,12.201754385964911
+2018,Abu Dhabi,Fernando Alonso,10.32456140350877
+2018,Abu Dhabi,Marcus Ericsson,10.32456140350877
+2018,Abu Dhabi,Kevin Magnussen,5.63157894736842
+2018,Abu Dhabi,Brendon Hartley,4.69298245614035
+2018,Australia,Valtteri Bottas,199.73333333333332
+2018,Australia,Daniel Ricciardo,99.86666666666666
+2018,Australia,Charles Leclerc,57.06666666666666
+2018,Austria,Sebastian Vettel,74.9
+2018,Austria,Sergio Perez,51.12222222222222
+2018,Austria,Carlos Sainz,46.36666666666667
+2018,Austria,Charles Leclerc,38.044444444444444
+2018,Austria,Fernando Alonso,36.855555555555554
+2018,Austria,Kevin Magnussen,32.1
+2018,Austria,Pierre Gasly,29.72222222222222
+2018,Austria,Kimi Raikkonen,22.58888888888889
+2018,Austria,Daniel Ricciardo,21.4
+2018,Austria,Marcus Ericsson,13.077777777777778
+2018,Austria,Sergey Sirotkin,7.133333333333333
+2018,Azerbaijan,Nico Hulkenberg,44.275862068965516
+2018,Azerbaijan,Sergio Perez,43.660919540229884
+2018,Azerbaijan,Kimi Raikkonen,41.201149425287355
+2018,Azerbaijan,Carlos Sainz,36.2816091954023
+2018,Azerbaijan,Fernando Alonso,33.206896551724135
+2018,Azerbaijan,Charles Leclerc,31.97701149425287
+2018,Azerbaijan,Max Verstappen,31.36206896551724
+2018,Azerbaijan,Pierre Gasly,26.44252873563218
+2018,Azerbaijan,Lance Stroll,24.597701149425284
+2018,Azerbaijan,Stoffel Vandoorne,23.982758620689655
+2018,Azerbaijan,Romain Grosjean,22.137931034482758
+2018,Azerbaijan,Daniel Ricciardo,20.908045977011493
+2018,Azerbaijan,Marcus Ericsson,15.988505747126435
+2018,Azerbaijan,Brendon Hartley,6.764367816091954
+2018,Azerbaijan,Kevin Magnussen,6.149425287356321
+2018,Bahrain,Lewis Hamilton,43.14516129032258
+2018,Bahrain,Kevin Magnussen,42.56989247311827
+2018,Bahrain,Stoffel Vandoorne,40.84408602150537
+2018,Bahrain,Romain Grosjean,37.39247311827957
+2018,Bahrain,Nico Hulkenberg,28.188172043010752
+2018,Bahrain,Fernando Alonso,25.887096774193544
+2018,Bahrain,Pierre Gasly,25.887096774193544
+2018,Bahrain,Esteban Ocon,24.736559139784944
+2018,Bahrain,Carlos Sainz,21.284946236559136
+2018,Bahrain,Sergio Perez,15.532258064516128
+2018,Bahrain,Sebastian Vettel,11.50537634408602
+2018,Bahrain,Marcus Ericsson,9.779569892473116
+2018,Bahrain,Charles Leclerc,9.204301075268816
+2018,Bahrain,Brendon Hartley,6.327956989247311
+2018,Bahrain,Max Verstappen,6.327956989247311
+2018,Belgium,Valtteri Bottas,146.23333333333335
+2018,Belgium,Marcus Ericsson,54.68888888888888
+2018,Belgium,Max Verstappen,41.611111111111114
+2018,Belgium,Carlos Sainz,40.422222222222224
+2018,Belgium,Sergey Sirotkin,39.233333333333334
+2018,Belgium,Brendon Hartley,26.155555555555555
+2018,Belgium,Lewis Hamilton,22.58888888888889
+2018,Belgium,Esteban Ocon,16.644444444444446
+2018,Belgium,Pierre Gasly,13.077777777777778
+2018,Belgium,Lance Stroll,8.322222222222223
+2018,Brazil,Daniel Ricciardo,59.67307692307692
+2018,Brazil,Max Verstappen,50.070512820512825
+2018,Brazil,Esteban Ocon,39.09615384615385
+2018,Brazil,Sebastian Vettel,28.807692307692307
+2018,Brazil,Kimi Raikkonen,24.006410256410255
+2018,Brazil,Carlos Sainz,23.32051282051282
+2018,Brazil,Sergio Perez,21.94871794871795
+2018,Brazil,Lewis Hamilton,21.26282051282051
+2018,Brazil,Valtteri Bottas,19.205128205128204
+2018,Brazil,Kevin Magnussen,15.775641025641026
+2018,Brazil,Stoffel Vandoorne,12.346153846153847
+2018,Brazil,Fernando Alonso,11.66025641025641
+2018,Brazil,Nico Hulkenberg,10.974358974358974
+2018,Brazil,Charles Leclerc,8.916666666666666
+2018,Brazil,Romain Grosjean,7.544871794871795
+2018,Brazil,Brendon Hartley,6.8589743589743595
+2018,Brazil,Sergey Sirotkin,3.4294871794871797
+2018,Britain,Lewis Hamilton,139.4242424242424
+2018,Britain,Kimi Raikkonen,126.45454545454544
+2018,Britain,Fernando Alonso,36.74747474747474
+2018,Britain,Sergio Perez,27.020202020202017
+2018,Britain,Sebastian Vettel,21.616161616161612
+2018,Britain,Max Verstappen,18.37373737373737
+2018,Britain,Kevin Magnussen,12.969696969696969
+2018,Britain,Lance Stroll,7.565656565656565
+2018,Canada,Fernando Alonso,61.82222222222222
+2018,Canada,Pierre Gasly,57.06666666666666
+2018,Canada,Esteban Ocon,45.17777777777778
+2018,Canada,Sergio Perez,35.666666666666664
+2018,Canada,Nico Hulkenberg,33.28888888888889
+2018,Canada,Carlos Sainz,30.91111111111111
+2018,Canada,Romain Grosjean,14.266666666666666
+2018,Canada,Stoffel Vandoorne,9.511111111111111
+2018,China,Daniel Ricciardo,59.22012578616352
+2018,China,Nico Hulkenberg,51.81761006289308
+2018,China,Esteban Ocon,37.0125786163522
+2018,China,Carlos Sainz,32.9748427672956
+2018,China,Sergio Perez,29.61006289308176
+2018,China,Fernando Alonso,26.245283018867923
+2018,China,Max Verstappen,22.880503144654085
+2018,China,Romain Grosjean,16.82389937106918
+2018,China,Valtteri Bottas,13.459119496855346
+2018,China,Stoffel Vandoorne,11.440251572327043
+2018,China,Kevin Magnussen,8.748427672955975
+2018,China,Lance Stroll,7.40251572327044
+2018,China,Pierre Gasly,6.056603773584905
+2018,China,Charles Leclerc,2.691823899371069
+2018,China,Marcus Ericsson,2.0188679245283017
+2018,France,Sebastian Vettel,86.42307692307692
+2018,France,Valtteri Bottas,57.61538461538461
+2018,France,Kimi Raikkonen,56.92948717948718
+2018,France,Nico Hulkenberg,24.692307692307693
+2018,France,Daniel Ricciardo,24.006410256410255
+2018,France,Carlos Sainz,19.891025641025642
+2018,France,Stoffel Vandoorne,18.51923076923077
+2018,France,Charles Leclerc,16.46153846153846
+2018,France,Romain Grosjean,15.08974358974359
+2018,France,Kevin Magnussen,14.403846153846153
+2018,France,Brendon Hartley,13.717948717948717
+2018,France,Marcus Ericsson,10.288461538461538
+2018,France,Fernando Alonso,6.173076923076923
+2018,Germany,Romain Grosjean,55.66161616161615
+2018,Germany,Lewis Hamilton,54.040404040404034
+2018,Germany,Sergio Perez,36.2070707070707
+2018,Germany,Nico Hulkenberg,30.26262626262626
+2018,Germany,Daniel Ricciardo,28.64141414141414
+2018,Germany,Carlos Sainz,23.777777777777775
+2018,Germany,Charles Leclerc,16.752525252525253
+2018,Germany,Kevin Magnussen,14.050505050505048
+2018,Germany,Marcus Ericsson,12.969696969696967
+2018,Germany,Brendon Hartley,11.348484848484848
+2018,Germany,Valtteri Bottas,10.267676767676766
+2018,Germany,Fernando Alonso,8.106060606060606
+2018,Germany,Lance Stroll,8.106060606060606
+2018,Germany,Esteban Ocon,4.863636363636363
+2018,Germany,Pierre Gasly,4.323232323232323
+2018,Germany,Sergey Sirotkin,3.242424242424242
+2018,Germany,Stoffel Vandoorne,1.621212121212121
+2018,Hungary,Daniel Ricciardo,219.0952380952381
+2018,Hungary,Kimi Raikkonen,56.04761904761905
+2018,Hungary,Sebastian Vettel,32.26984126984127
+2018,Hungary,Valtteri Bottas,30.57142857142857
+2018,Hungary,Nico Hulkenberg,28.873015873015873
+2018,Hungary,Romain Grosjean,18.682539682539684
+2018,Hungary,Sergio Perez,15.285714285714285
+2018,Hungary,Esteban Ocon,11.88888888888889
+2018,Italy,Sebastian Vettel,127.2651515151515
+2018,Italy,Sergio Perez,55.93181818181818
+2018,Italy,Daniel Ricciardo,41.340909090909086
+2018,Italy,Lewis Hamilton,32.42424242424242
+2018,Italy,Nico Hulkenberg,24.318181818181817
+2018,Italy,Lance Stroll,17.022727272727273
+2018,Italy,Kimi Raikkonen,16.21212121212121
+2018,Italy,Charles Leclerc,13.78030303030303
+2018,Italy,Max Verstappen,12.969696969696969
+2018,Italy,Esteban Ocon,12.159090909090908
+2018,Italy,Romain Grosjean,10.537878787878787
+2018,Italy,Carlos Sainz,9.727272727272727
+2018,Italy,Sergey Sirotkin,8.106060606060606
+2018,Italy,Pierre Gasly,7.295454545454545
+2018,Italy,Stoffel Vandoorne,5.674242424242424
+2018,Japan,Sebastian Vettel,74.9
+2018,Japan,Daniel Ricciardo,51.71666666666667
+2018,Japan,Kimi Raikkonen,41.611111111111114
+2018,Japan,Sergio Perez,32.1
+2018,Japan,Carlos Sainz,23.183333333333334
+2018,Japan,Esteban Ocon,21.994444444444444
+2018,Japan,Charles Leclerc,16.644444444444446
+2018,Japan,Pierre Gasly,16.644444444444446
+2018,Japan,Fernando Alonso,15.455555555555556
+2018,Japan,Brendon Hartley,14.266666666666666
+2018,Japan,Max Verstappen,10.105555555555556
+2018,Japan,Marcus Ericsson,8.322222222222223
+2018,Japan,Sergey Sirotkin,2.9722222222222223
+2018,Mexico,Charles Leclerc,37.648148148148145
+2018,Mexico,Sebastian Vettel,36.657407407407405
+2018,Mexico,Nico Hulkenberg,32.69444444444444
+2018,Mexico,Stoffel Vandoorne,31.703703703703702
+2018,Mexico,Sergio Perez,26.75
+2018,Mexico,Carlos Sainz,24.76851851851852
+2018,Mexico,Pierre Gasly,23.77777777777778
+2018,Mexico,Max Verstappen,18.824074074074073
+2018,Mexico,Lewis Hamilton,17.833333333333332
+2018,Mexico,Marcus Ericsson,17.833333333333332
+2018,Mexico,Daniel Ricciardo,16.84259259259259
+2018,Mexico,Esteban Ocon,15.851851851851851
+2018,Mexico,Kevin Magnussen,14.86111111111111
+2018,Mexico,Kimi Raikkonen,14.86111111111111
+2018,Mexico,Valtteri Bottas,13.87037037037037
+2018,Mexico,Brendon Hartley,6.935185185185185
+2018,Mexico,Romain Grosjean,6.935185185185185
+2018,Mexico,Sergey Sirotkin,6.935185185185185
+2018,Mexico,Lance Stroll,4.953703703703703
+2018,Monaco,Max Verstappen,258.5833333333333
+2018,Russia,Max Verstappen,108.08080808080807
+2018,Russia,Daniel Ricciardo,64.84848484848484
+2018,Russia,Charles Leclerc,31.34343434343434
+2018,Russia,Nico Hulkenberg,30.26262626262626
+2018,Russia,Romain Grosjean,27.020202020202017
+2018,Russia,Marcus Ericsson,20.535353535353533
+2018,Russia,Lewis Hamilton,18.37373737373737
+2018,Russia,Stoffel Vandoorne,17.29292929292929
+2018,Russia,Kevin Magnussen,12.969696969696969
+2018,Russia,Esteban Ocon,11.888888888888888
+2018,Russia,Sergio Perez,10.808080808080806
+2018,Singapore,Nico Hulkenberg,46.64102564102564
+2018,Singapore,Sebastian Vettel,43.8974358974359
+2018,Singapore,Sergio Perez,35.66666666666667
+2018,Singapore,Carlos Sainz,35.666666666666664
+2018,Singapore,Charles Leclerc,32.92307692307692
+2018,Singapore,Kevin Magnussen,24.692307692307693
+2018,Singapore,Romain Grosjean,19.205128205128204
+2018,Singapore,Pierre Gasly,16.46153846153846
+2018,Singapore,Brendon Hartley,10.974358974358974
+2018,Spain,Sergio Perez,117.97435897435898
+2018,Spain,Fernando Alonso,87.7948717948718
+2018,Spain,Sebastian Vettel,43.8974358974359
+2018,Spain,Valtteri Bottas,41.15384615384615
+2018,Spain,Brendon Hartley,24.692307692307693
+2018,Spain,Charles Leclerc,21.94871794871795
+2018,Spain,Esteban Ocon,16.46153846153846
+2018,Spain,Sergey Sirotkin,13.717948717948719
+2018,USA,Sebastian Vettel,135.76344086021504
+2018,USA,Max Verstappen,87.44086021505376
+2018,USA,Esteban Ocon,42.56989247311827
+2018,USA,Carlos Sainz,40.26881720430107
+2018,USA,Marcus Ericsson,24.16129032258064
+2018,USA,Sergio Perez,19.559139784946233
+2018,USA,Kevin Magnussen,13.806451612903224
+2018,USA,Nico Hulkenberg,13.806451612903224
+2018,USA,Brendon Hartley,10.354838709677418
+2018,USA,Pierre Gasly,8.053763440860214
+2019,Abu Dhabi,Valtteri Bottas,99.03474903474904
+2019,Abu Dhabi,Sergio Perez,58.68725868725869
+2019,Abu Dhabi,Carlos Sainz,55.01930501930502
+2019,Abu Dhabi,Sebastian Vettel,36.67953667953668
+2019,Abu Dhabi,Daniel Ricciardo,33.011583011583014
+2019,Abu Dhabi,Daniil Kvyat,30.566280566280568
+2019,Abu Dhabi,Nico Hulkenberg,25.675675675675677
+2019,Abu Dhabi,Antonio Giovinazzi,24.453024453024454
+2019,Abu Dhabi,Lando Norris,23.23037323037323
+2019,Abu Dhabi,Max Verstappen,23.23037323037323
+2019,Abu Dhabi,Kimi Raikkonen,9.781209781209782
+2019,Abu Dhabi,Romain Grosjean,6.113256113256114
+2019,Abu Dhabi,George Russell,3.667953667953668
+2019,Abu Dhabi,Lance Stroll,3.667953667953668
+2019,Abu Dhabi,Pierre Gasly,3.667953667953668
+2019,Australia,Max Verstappen,67.85714285714286
+2019,Australia,Sergio Perez,67.85714285714286
+2019,Australia,Kevin Magnussen,45.23809523809524
+2019,Australia,Daniil Kvyat,41.468253968253975
+2019,Australia,Nico Hulkenberg,41.468253968253975
+2019,Australia,Kimi Raikkonen,37.6984126984127
+2019,Australia,Lando Norris,33.92857142857143
+2019,Australia,Romain Grosjean,30.15873015873016
+2019,Australia,Pierre Gasly,18.84920634920635
+2019,Australia,Daniel Ricciardo,7.53968253968254
+2019,Austria,Max Verstappen,96.80952380952381
+2019,Austria,Carlos Sainz,78.71428571428572
+2019,Austria,Sebastian Vettel,58.80952380952381
+2019,Austria,Lando Norris,37.095238095238095
+2019,Austria,Pierre Gasly,33.476190476190474
+2019,Austria,Daniel Ricciardo,22.61904761904762
+2019,Austria,Charles Leclerc,18.095238095238095
+2019,Austria,Lance Stroll,18.095238095238095
+2019,Austria,Sergio Perez,18.095238095238095
+2019,Austria,Antonio Giovinazzi,15.38095238095238
+2019,Austria,Nico Hulkenberg,15.38095238095238
+2019,Austria,Kevin Magnussen,13.571428571428571
+2019,Austria,Alexander Albon,12.666666666666668
+2019,Austria,Kimi Raikkonen,10.857142857142858
+2019,Austria,Daniil Kvyat,4.523809523809524
+2019,Austria,George Russell,4.523809523809524
+2019,Azerbaijan,Charles Leclerc,75.1536098310292
+2019,Azerbaijan,Pierre Gasly,58.371735791090636
+2019,Azerbaijan,Lance Stroll,32.834101382488484
+2019,Azerbaijan,Carlos Sainz,29.18586789554532
+2019,Azerbaijan,Alexander Albon,28.456221198156687
+2019,Azerbaijan,Daniel Ricciardo,25.537634408602155
+2019,Azerbaijan,Lando Norris,24.80798771121352
+2019,Azerbaijan,Daniil Kvyat,21.15975422427036
+2019,Azerbaijan,Romain Grosjean,19.70046082949309
+2019,Azerbaijan,Antonio Giovinazzi,18.970814132104458
+2019,Azerbaijan,Sergio Perez,18.970814132104458
+2019,Azerbaijan,Kimi Raikkonen,16.781874039938558
+2019,Azerbaijan,Nico Hulkenberg,15.322580645161292
+2019,Azerbaijan,Valtteri Bottas,14.592933947772659
+2019,Azerbaijan,Lewis Hamilton,13.863287250384026
+2019,Azerbaijan,Max Verstappen,12.40399385560676
+2019,Azerbaijan,Kevin Magnussen,11.674347158218128
+2019,Bahrain,Kimi Raikkonen,69.6911196911197
+2019,Bahrain,Sebastian Vettel,61.74388674388675
+2019,Bahrain,Nico Hulkenberg,48.2947232947233
+2019,Bahrain,Lando Norris,47.683397683397686
+2019,Bahrain,Max Verstappen,37.902187902187904
+2019,Bahrain,Charles Leclerc,36.06821106821107
+2019,Bahrain,Lewis Hamilton,34.234234234234236
+2019,Bahrain,Pierre Gasly,34.234234234234236
+2019,Bahrain,Alexander Albon,29.954954954954957
+2019,Bahrain,Daniel Ricciardo,22.61904761904762
+2019,Bahrain,Valtteri Bottas,20.173745173745175
+2019,Bahrain,Sergio Perez,18.951093951093952
+2019,Bahrain,Daniil Kvyat,16.505791505791507
+2019,Bahrain,George Russell,8.558558558558559
+2019,Bahrain,Kevin Magnussen,8.558558558558559
+2019,Bahrain,Carlos Sainz,6.113256113256114
+2019,Bahrain,Antonio Giovinazzi,5.501930501930502
+2019,Bahrain,Robert Kubica,5.501930501930502
+2019,Bahrain,Lance Stroll,3.056628056628057
+2019,Belgium,Alexander Albon,73.24263038548753
+2019,Belgium,Sergio Perez,53.13681027966742
+2019,Belgium,Daniil Kvyat,49.54648526077098
+2019,Belgium,Pierre Gasly,45.95616024187453
+2019,Belgium,Nico Hulkenberg,37.33938019652305
+2019,Belgium,Lance Stroll,36.621315192743765
+2019,Belgium,Antonio Giovinazzi,32.31292517006803
+2019,Belgium,Lando Norris,22.260015117157977
+2019,Belgium,Kevin Magnussen,21.541950113378686
+2019,Belgium,Daniel Ricciardo,15.79743008314437
+2019,Belgium,Lewis Hamilton,13.643235071806501
+2019,Belgium,Romain Grosjean,12.925170068027212
+2019,Belgium,Sebastian Vettel,12.207105064247921
+2019,Belgium,Kimi Raikkonen,9.334845049130763
+2019,Brazil,Charles Leclerc,52.246814218645206
+2019,Brazil,Daniil Kvyat,36.9550637156271
+2019,Brazil,Daniel Ricciardo,35.04359490274984
+2019,Brazil,Lando Norris,34.40643863179075
+2019,Brazil,Max Verstappen,33.76928236083166
+2019,Brazil,Lewis Hamilton,33.13212608987257
+2019,Brazil,Carlos Sainz,32.49496981891348
+2019,Brazil,Kimi Raikkonen,24.84909456740443
+2019,Brazil,Lance Stroll,22.937625754527165
+2019,Brazil,Pierre Gasly,22.937625754527165
+2019,Brazil,Kevin Magnussen,21.66331321260899
+2019,Brazil,Alexander Albon,21.0261569416499
+2019,Brazil,Antonio Giovinazzi,18.47753185781355
+2019,Brazil,Nico Hulkenberg,16.566063044936286
+2019,Brazil,Sergio Perez,15.29175050301811
+2019,Brazil,Sebastian Vettel,11.468812877263582
+2019,Brazil,Romain Grosjean,8.92018779342723
+2019,Brazil,George Russell,1.2743125419181758
+2019,Canada,Max Verstappen,66.34920634920636
+2019,Canada,Daniil Kvyat,57.301587301587304
+2019,Canada,Lance Stroll,51.26984126984128
+2019,Canada,Carlos Sainz,40.71428571428572
+2019,Canada,Daniel Ricciardo,37.6984126984127
+2019,Canada,Charles Leclerc,27.142857142857146
+2019,Canada,Kimi Raikkonen,27.142857142857146
+2019,Canada,Valtteri Bottas,24.12698412698413
+2019,Canada,Sergio Perez,22.61904761904762
+2019,Canada,Romain Grosjean,18.0952380952381
+2019,Canada,Pierre Gasly,16.58730158730159
+2019,Canada,Kevin Magnussen,15.079365079365083
+2019,Canada,Alexander Albon,10.555555555555557
+2019,China,Kimi Raikkonen,63.33333333333333
+2019,China,Daniil Kvyat,49.76190476190476
+2019,China,Alexander Albon,46.36904761904762
+2019,China,Sebastian Vettel,38.45238095238095
+2019,China,Lance Stroll,36.19047619047619
+2019,China,Max Verstappen,33.92857142857143
+2019,China,Romain Grosjean,29.404761904761905
+2019,China,Valtteri Bottas,21.488095238095237
+2019,China,Pierre Gasly,16.964285714285715
+2019,China,Kevin Magnussen,13.571428571428571
+2019,China,Carlos Sainz,12.44047619047619
+2019,China,Antonio Giovinazzi,11.30952380952381
+2019,China,Nico Hulkenberg,6.785714285714286
+2019,China,George Russell,4.523809523809524
+2019,China,Lando Norris,4.523809523809524
+2019,France,Daniel Ricciardo,63.01020408163266
+2019,France,Sebastian Vettel,50.08503401360545
+2019,France,Kimi Raikkonen,40.39115646258504
+2019,France,Daniil Kvyat,37.15986394557823
+2019,France,Nico Hulkenberg,35.544217687074834
+2019,France,Antonio Giovinazzi,25.85034013605442
+2019,France,Alexander Albon,19.387755102040817
+2019,France,Lando Norris,16.156462585034014
+2019,France,Lance Stroll,12.925170068027212
+2019,France,Pierre Gasly,12.925170068027212
+2019,France,Kevin Magnussen,8.078231292517007
+2019,France,Romain Grosjean,6.462585034013606
+2019,France,George Russell,4.846938775510204
+2019,Germany,Sebastian Vettel,99.62006079027356
+2019,Germany,Kimi Raikkonen,56.78824721377913
+2019,Germany,Alexander Albon,40.90678824721378
+2019,Germany,Carlos Sainz,40.90678824721378
+2019,Germany,Pierre Gasly,35.612968591691995
+2019,Germany,Lewis Hamilton,34.16919959473151
+2019,Germany,Max Verstappen,34.16919959473151
+2019,Germany,Antonio Giovinazzi,29.35663627152989
+2019,Germany,Kevin Magnussen,24.062816616008107
+2019,Germany,Nico Hulkenberg,22.61904761904762
+2019,Germany,Romain Grosjean,22.137791286727456
+2019,Germany,Daniil Kvyat,21.175278622087134
+2019,Germany,Lance Stroll,18.768996960486323
+2019,Germany,Valtteri Bottas,18.287740628166162
+2019,Germany,Charles Leclerc,15.88145896656535
+2019,Germany,Sergio Perez,10.587639311043567
+2019,Germany,Daniel Ricciardo,10.106382978723405
+2019,Germany,Robert Kubica,3.368794326241135
+2019,Germany,Lando Norris,1.4437689969604863
+2019,Great Britain,Daniil Kvyat,84.992784992785
+2019,Great Britain,Charles Leclerc,67.17171717171718
+2019,Great Britain,Daniel Ricciardo,61.68831168831169
+2019,Great Britain,Max Verstappen,46.60894660894661
+2019,Great Britain,Alexander Albon,27.41702741702742
+2019,Great Britain,Kimi Raikkonen,27.41702741702742
+2019,Great Britain,Lewis Hamilton,27.41702741702742
+2019,Great Britain,Valtteri Bottas,27.41702741702742
+2019,Great Britain,Lance Stroll,26.04617604617605
+2019,Great Britain,Nico Hulkenberg,24.675324675324678
+2019,Great Britain,Sergio Perez,23.304473304473305
+2019,Great Britain,Pierre Gasly,21.933621933621936
+2019,Great Britain,Lando Norris,13.70851370851371
+2019,Great Britain,Sebastian Vettel,8.225108225108226
+2019,Hungary,Valtteri Bottas,118.20276497695855
+2019,Hungary,Sebastian Vettel,51.075268817204304
+2019,Hungary,Daniil Kvyat,33.563748079877115
+2019,Hungary,Lando Norris,33.563748079877115
+2019,Hungary,Daniel Ricciardo,32.10445468509985
+2019,Hungary,Alexander Albon,30.645161290322584
+2019,Hungary,Lewis Hamilton,29.185867895545318
+2019,Hungary,Kevin Magnussen,21.88940092165899
+2019,Hungary,Pierre Gasly,21.88940092165899
+2019,Hungary,Kimi Raikkonen,20.430107526881724
+2019,Hungary,Nico Hulkenberg,13.133640552995393
+2019,Hungary,Lance Stroll,10.215053763440862
+2019,Italy,Max Verstappen,69.36507936507937
+2019,Italy,Sergio Perez,57.301587301587304
+2019,Italy,Alexander Albon,42.22222222222223
+2019,Italy,Charles Leclerc,37.195767195767196
+2019,Italy,Sebastian Vettel,37.195767195767196
+2019,Italy,Lewis Hamilton,35.18518518518519
+2019,Italy,Lando Norris,19.1005291005291
+2019,Italy,Pierre Gasly,18.095238095238095
+2019,Italy,Valtteri Bottas,18.095238095238095
+2019,Italy,Daniel Ricciardo,16.084656084656086
+2019,Italy,Romain Grosjean,16.084656084656086
+2019,Italy,Kimi Raikkonen,14.074074074074074
+2019,Italy,Carlos Sainz,13.06878306878307
+2019,Italy,Daniil Kvyat,12.063492063492063
+2019,Italy,Kevin Magnussen,12.063492063492063
+2019,Italy,Lance Stroll,12.063492063492063
+2019,Italy,George Russell,5.026455026455027
+2019,Japan,Charles Leclerc,90.47619047619048
+2019,Japan,Daniel Ricciardo,77.21674876847291
+2019,Japan,Alexander Albon,57.71756978653531
+2019,Japan,Daniil Kvyat,37.4384236453202
+2019,Japan,Lando Norris,27.298850574712645
+2019,Japan,Nico Hulkenberg,26.51888341543514
+2019,Japan,Sergio Perez,26.51888341543514
+2019,Japan,Pierre Gasly,19.499178981937604
+2019,Japan,Lance Stroll,18.7192118226601
+2019,Japan,Kimi Raikkonen,17.939244663382595
+2019,Japan,Sebastian Vettel,14.039408866995075
+2019,Japan,Romain Grosjean,5.459770114942529
+2019,Japan,Antonio Giovinazzi,4.679802955665025
+2019,Japan,Kevin Magnussen,3.1198686371100166
+2019,Mexico,Max Verstappen,103.26086956521739
+2019,Mexico,Daniil Kvyat,61.95652173913044
+2019,Mexico,Pierre Gasly,44.25465838509317
+2019,Mexico,Carlos Sainz,44.254658385093165
+2019,Mexico,Sergio Perez,37.37060041407867
+2019,Mexico,Valtteri Bottas,30.48654244306418
+2019,Mexico,Kimi Raikkonen,26.5527950310559
+2019,Mexico,Robert Kubica,22.61904761904762
+2019,Mexico,Nico Hulkenberg,18.68530020703934
+2019,Mexico,Lewis Hamilton,16.718426501035196
+2019,Mexico,Daniel Ricciardo,10.817805383022774
+2019,Mexico,Antonio Giovinazzi,5.900621118012422
+2019,Mexico,Kevin Magnussen,4.917184265010352
+2019,Monaco,Charles Leclerc,384.5238095238095
+2019,Russia,Alexander Albon,138.94557823129253
+2019,Russia,Nico Hulkenberg,105.0170068027211
+2019,Russia,Max Verstappen,72.70408163265307
+2019,Russia,Daniil Kvyat,33.92857142857143
+2019,Russia,Valtteri Bottas,27.465986394557824
+2019,Russia,Sergio Perez,21.00340136054422
+2019,Russia,Kevin Magnussen,19.387755102040817
+2019,Russia,Carlos Sainz,17.772108843537417
+2019,Russia,Kimi Raikkonen,16.156462585034014
+2019,Russia,Daniel Ricciardo,11.30952380952381
+2019,Russia,Antonio Giovinazzi,6.462585034013606
+2019,Singapore,Max Verstappen,58.272800645682
+2019,Singapore,Sebastian Vettel,56.73930589184826
+2019,Singapore,Charles Leclerc,53.67231638418079
+2019,Singapore,Nico Hulkenberg,45.23809523809524
+2019,Singapore,Daniel Ricciardo,40.63761097659403
+2019,Singapore,Alexander Albon,30.66989507667474
+2019,Singapore,Pierre Gasly,26.836158192090394
+2019,Singapore,Lance Stroll,25.30266343825666
+2019,Singapore,Lewis Hamilton,25.30266343825666
+2019,Singapore,Valtteri Bottas,23.769168684422922
+2019,Singapore,Antonio Giovinazzi,23.002421307506054
+2019,Singapore,Romain Grosjean,20.70217917675545
+2019,Singapore,Lando Norris,16.868442292171103
+2019,Singapore,Carlos Sainz,11.501210653753027
+2019,Singapore,Kimi Raikkonen,9.967715899919291
+2019,Singapore,Sergio Perez,9.200968523002421
+2019,Singapore,Daniil Kvyat,7.6674737691686845
+2019,Singapore,Kevin Magnussen,6.133979015334948
+2019,Singapore,Robert Kubica,3.8337368845843423
+2019,Spain,Daniil Kvyat,74.81684981684981
+2019,Spain,Kevin Magnussen,67.85714285714286
+2019,Spain,Carlos Sainz,55.67765567765568
+2019,Spain,Sebastian Vettel,50.45787545787546
+2019,Spain,Nico Hulkenberg,41.75824175824176
+2019,Spain,Daniel Ricciardo,36.53846153846154
+2019,Spain,Romain Grosjean,24.358974358974358
+2019,Spain,Kimi Raikkonen,20.87912087912088
+2019,Spain,Alexander Albon,17.3992673992674
+2019,Spain,Lando Norris,10.43956043956044
+2019,Spain,Antonio Giovinazzi,8.6996336996337
+2019,Spain,George Russell,5.21978021978022
+2019,USA,Alexander Albon,134.23106947697113
+2019,USA,Sergio Perez,51.17096018735363
+2019,USA,Lando Norris,50.42935206869633
+2019,USA,Daniel Ricciardo,45.97970335675254
+2019,USA,Valtteri Bottas,43.75487900078064
+2019,USA,Nico Hulkenberg,29.66432474629196
+2019,USA,Daniil Kvyat,25.214676034348166
+2019,USA,Lance Stroll,19.281811085089775
+2019,USA,Carlos Sainz,17.056986729117877
+2019,USA,Kimi Raikkonen,14.83216237314598
+2019,USA,Max Verstappen,13.348946135831383
+2019,USA,Charles Leclerc,12.607338017174083
+2019,USA,Kevin Magnussen,11.865729898516785
+2019,USA,Pierre Gasly,9.640905542544887
+2019,USA,Antonio Giovinazzi,6.674473067915692
+2019,USA,George Russell,2.224824355971897
+2020,70th Anniversary,Alexander Albon,73.88235294117646
+2020,70th Anniversary,Lewis Hamilton,67.51318458417849
+2020,70th Anniversary,Daniil Kvyat,36.94117647058823
+2020,70th Anniversary,Sebastian Vettel,29.298174442190664
+2020,70th Anniversary,Lando Norris,25.476673427991884
+2020,70th Anniversary,Max Verstappen,25.476673427991884
+2020,70th Anniversary,Pierre Gasly,25.476673427991884
+2020,70th Anniversary,Daniel Ricciardo,15.28600405679513
+2020,70th Anniversary,Carlos Sainz,15.286004056795129
+2020,70th Anniversary,Charles Leclerc,14.012170385395535
+2020,70th Anniversary,Romain Grosjean,7.643002028397564
+2020,70th Anniversary,Kimi Raikkonen,3.821501014198782
+2020,70th Anniversary,Nicholas Latifi,3.821501014198782
+2020,Abu Dhabi,Pierre Gasly,66.27681660899654
+2020,Abu Dhabi,Lance Stroll,41.28719723183391
+2020,Abu Dhabi,Charles Leclerc,33.68166089965398
+2020,Abu Dhabi,Esteban Ocon,33.68166089965398
+2020,Abu Dhabi,Sergio Perez,29.335640138408305
+2020,Abu Dhabi,Carlos Sainz,29.3356401384083
+2020,Abu Dhabi,Alexander Albon,18.470588235294116
+2020,Abu Dhabi,Kimi Raikkonen,14.124567474048442
+2020,Abu Dhabi,George Russell,11.951557093425606
+2020,Abu Dhabi,Daniil Kvyat,8.69204152249135
+2020,Abu Dhabi,Sebastian Vettel,7.6055363321799305
+2020,Abu Dhabi,Nicholas Latifi,5.432525951557094
+2020,Abu Dhabi,Antonio Giovinazzi,4.346020761245675
+2020,Abu Dhabi,Pietro Fittipaldi,4.346020761245675
+2020,Austria,Alexander Albon,94.26369168356996
+2020,Austria,Carlos Sainz,57.32251521298174
+2020,Austria,Antonio Giovinazzi,57.322515212981735
+2020,Austria,Daniil Kvyat,48.40567951318458
+2020,Austria,Charles Leclerc,44.58417849898579
+2020,Austria,Lewis Hamilton,44.58417849898579
+2020,Austria,Sebastian Vettel,35.66734279918864
+2020,Austria,Esteban Ocon,21.655172413793103
+2020,Austria,Lando Norris,21.6551724137931
+2020,Austria,Sergio Perez,21.6551724137931
+2020,Austria,Kimi Raikkonen,20.381338742393506
+2020,Bahrain,Carlos Sainz,67.04139433551198
+2020,Bahrain,Valtteri Bottas,44.46623093681917
+2020,Bahrain,Esteban Ocon,37.62527233115468
+2020,Bahrain,Daniel Ricciardo,36.94117647058823
+2020,Bahrain,Alexander Albon,34.20479302832244
+2020,Bahrain,Lando Norris,28.732026143790847
+2020,Bahrain,Sergio Perez,23.943355119825707
+2020,Bahrain,George Russell,21.89106753812636
+2020,Bahrain,Sebastian Vettel,19.154684095860567
+2020,Bahrain,Daniil Kvyat,14.366013071895424
+2020,Bahrain,Charles Leclerc,13.681917211328976
+2020,Bahrain,Nicholas Latifi,9.577342047930284
+2020,Bahrain,Kimi Raikkonen,8.893246187363834
+2020,Bahrain,Pierre Gasly,8.209150326797385
+2020,Bahrain,Antonio Giovinazzi,4.788671023965142
+2020,Belgium,Pierre Gasly,103.8970588235294
+2020,Belgium,Sergio Perez,75.03676470588235
+2020,Belgium,Daniel Ricciardo,38.095588235294116
+2020,Belgium,Alexander Albon,35.78676470588235
+2020,Belgium,Esteban Ocon,35.78676470588235
+2020,Belgium,Lando Norris,28.860294117647058
+2020,Belgium,Kimi Raikkonen,17.316176470588232
+2020,Belgium,Charles Leclerc,15.00735294117647
+2020,Belgium,Daniil Kvyat,11.544117647058822
+2020,Belgium,George Russell,5.772058823529411
+2020,Belgium,Romain Grosjean,4.617647058823529
+2020,Belgium,Nicholas Latifi,3.4632352941176467
+2020,Eifel,Pierre Gasly,91.90243902439023
+2020,Eifel,Charles Leclerc,66.67431850789096
+2020,Eifel,Sergio Perez,58.565279770444754
+2020,Eifel,Nico Hulkenberg,47.753228120516496
+2020,Eifel,Alexander Albon,36.94117647058823
+2020,Eifel,Daniel Ricciardo,27.931133428981347
+2020,Eifel,Sebastian Vettel,19.82209469153515
+2020,Eifel,Lewis Hamilton,18.02008608321377
+2020,Eifel,Valtteri Bottas,16.218077474892393
+2020,Eifel,Kimi Raikkonen,15.317073170731705
+2020,Eifel,Daniil Kvyat,9.010043041606885
+2020,Eifel,Kevin Magnussen,7.208034433285508
+2020,Eifel,Romain Grosjean,6.30703012912482
+2020,Eifel,George Russell,2.7030129124820657
+2020,Emilia-Romagna,Daniil Kvyat,177.31764705882352
+2020,Emilia-Romagna,Max Verstappen,70.18823529411765
+2020,Emilia-Romagna,Sergio Perez,55.41176470588235
+2020,Emilia-Romagna,Daniel Ricciardo,48.023529411764706
+2020,Emilia-Romagna,Carlos Sainz,44.32941176470588
+2020,Emilia-Romagna,Charles Leclerc,44.32941176470588
+2020,Emilia-Romagna,Sebastian Vettel,29.552941176470586
+2020,Emilia-Romagna,Lance Stroll,14.776470588235293
+2020,Great Britain,Alexander Albon,73.88235294117646
+2020,Great Britain,Pierre Gasly,45.466063348416284
+2020,Great Britain,Carlos Sainz,41.20361990950226
+2020,Great Britain,Daniel Ricciardo,41.20361990950226
+2020,Great Britain,Lando Norris,41.20361990950226
+2020,Great Britain,Lance Stroll,38.36199095022624
+2020,Great Britain,Esteban Ocon,34.09954751131221
+2020,Great Britain,Antonio Giovinazzi,12.78733031674208
+2020,Great Britain,Daniil Kvyat,12.78733031674208
+2020,Great Britain,George Russell,8.524886877828052
+2020,Great Britain,Kimi Raikkonen,8.524886877828052
+2020,Great Britain,Nicholas Latifi,8.524886877828052
+2020,Great Britain,Romain Grosjean,7.104072398190045
+2020,Hungary,Alexander Albon,68.00534759358288
+2020,Hungary,Valtteri Bottas,61.28877005347593
+2020,Hungary,Esteban Ocon,52.05347593582887
+2020,Hungary,Lance Stroll,39.459893048128336
+2020,Hungary,Charles Leclerc,28.545454545454543
+2020,Hungary,Kevin Magnussen,24.347593582887697
+2020,Hungary,Daniel Ricciardo,21.828877005347593
+2020,Hungary,Sergio Perez,21.828877005347593
+2020,Hungary,Romain Grosjean,20.989304812834224
+2020,Hungary,Carlos Sainz,19.310160427807485
+2020,Hungary,Sebastian Vettel,19.310160427807485
+2020,Hungary,Lando Norris,16.791443850267378
+2020,Hungary,Lewis Hamilton,14.272727272727272
+2020,Hungary,Kimi Raikkonen,5.877005347593582
+2020,Hungary,George Russell,4.197860962566844
+2020,Hungary,Antonio Giovinazzi,3.3582887700534756
+2020,Hungary,Daniil Kvyat,3.3582887700534756
+2020,Italy,Lewis Hamilton,86.19607843137254
+2020,Italy,Carlos Sainz,51.307189542483655
+2020,Italy,Charles Leclerc,33.86274509803921
+2020,Italy,Lance Stroll,32.83660130718954
+2020,Italy,Lando Norris,30.784313725490193
+2020,Italy,Sergio Perez,28.732026143790847
+2020,Italy,Valtteri Bottas,28.732026143790847
+2020,Italy,Max Verstappen,23.60130718954248
+2020,Italy,Alexander Albon,19.49673202614379
+2020,Italy,Romain Grosjean,17.444444444444443
+2020,Italy,Kimi Raikkonen,16.41830065359477
+2020,Italy,Daniel Ricciardo,15.392156862745097
+2020,Italy,Esteban Ocon,14.366013071895424
+2020,Italy,Daniil Kvyat,13.33986928104575
+2020,Italy,Nicholas Latifi,10.261437908496731
+2020,Italy,George Russell,6.156862745098039
+2020,Italy,Sebastian Vettel,4.104575163398692
+2020,Portugal,Pierre Gasly,53.53793691389599
+2020,Portugal,Carlos Sainz,48.71952259164535
+2020,Portugal,Sergio Perez,33.728900255754475
+2020,Portugal,Charles Leclerc,33.19352088661552
+2020,Portugal,Daniel Ricciardo,28.375106564364874
+2020,Portugal,Kimi Raikkonen,25.162830349531113
+2020,Portugal,Lewis Hamilton,20.87979539641944
+2020,Portugal,Sebastian Vettel,20.879795396419436
+2020,Portugal,Lance Stroll,19.273657289002557
+2020,Portugal,Max Verstappen,18.7382779198636
+2020,Portugal,Daniil Kvyat,14.455242966751918
+2020,Portugal,Lando Norris,13.919863597612958
+2020,Portugal,Esteban Ocon,11.242966751918157
+2020,Portugal,Valtteri Bottas,10.707587382779199
+2020,Portugal,Alexander Albon,10.172208013640239
+2020,Portugal,Nicholas Latifi,8.030690537084398
+2020,Portugal,Kevin Magnussen,5.353793691389599
+2020,Portugal,George Russell,4.283034953111679
+2020,Portugal,Antonio Giovinazzi,3.747655583972719
+2020,Portugal,Romain Grosjean,3.2122762148337594
+2020,Russia,Alexander Albon,50.04933586337761
+2020,Russia,Pierre Gasly,41.70777988614801
+2020,Russia,Daniel Ricciardo,30.98292220113852
+2020,Russia,Kimi Raikkonen,28.599620493358636
+2020,Russia,Daniil Kvyat,27.40796963946869
+2020,Russia,Antonio Giovinazzi,21.449715370018975
+2020,Russia,Lando Norris,21.449715370018975
+2020,Russia,Max Verstappen,21.449715370018975
+2020,Russia,Sergio Perez,19.06641366223909
+2020,Russia,Lewis Hamilton,16.683111954459203
+2020,Russia,Esteban Ocon,15.49146110056926
+2020,Russia,George Russell,13.108159392789375
+2020,Russia,Sebastian Vettel,8.341555977229602
+2020,Russia,Romain Grosjean,4.766603415559772
+2020,Sakhir,George Russell,80.40138408304497
+2020,Sakhir,Sergio Perez,77.50403690888119
+2020,Sakhir,Alexander Albon,61.56862745098038
+2020,Sakhir,Lando Norris,27.524798154555935
+2020,Sakhir,Carlos Sainz,25.3517877739331
+2020,Sakhir,Kimi Raikkonen,21.73010380622837
+2020,Sakhir,Sebastian Vettel,14.486735870818915
+2020,Sakhir,Valtteri Bottas,13.76239907727797
+2020,Sakhir,Daniel Ricciardo,10.865051903114185
+2020,Sakhir,Kevin Magnussen,10.14071510957324
+2020,Sakhir,Daniil Kvyat,9.416378316032294
+2020,Sakhir,Esteban Ocon,8.692041522491348
+2020,Sakhir,Jack Aitken,7.243367935409458
+2020,Sakhir,Pierre Gasly,7.243367935409458
+2020,Sakhir,Nicholas Latifi,5.794694348327566
+2020,Sakhir,Antonio Giovinazzi,5.07035755478662
+2020,Spain,Carlos Sainz,58.87499999999999
+2020,Spain,Lance Stroll,38.095588235294116
+2020,Spain,Alexander Albon,34.632352941176464
+2020,Spain,Kimi Raikkonen,34.632352941176464
+2020,Spain,Esteban Ocon,31.16911764705882
+2020,Spain,Daniil Kvyat,23.088235294117645
+2020,Spain,Valtteri Bottas,20.77941176470588
+2020,Spain,Sergio Perez,17.316176470588232
+2020,Spain,George Russell,16.16176470588235
+2020,Spain,Pierre Gasly,13.852941176470587
+2020,Spain,Antonio Giovinazzi,12.698529411764705
+2020,Spain,Charles Leclerc,10.38970588235294
+2020,Spain,Kevin Magnussen,8.080882352941176
+2020,Styria,Sergio Perez,70.86674669867946
+2020,Styria,Lance Stroll,49.003601440576226
+2020,Styria,Valtteri Bottas,42.218487394957975
+2020,Styria,Kimi Raikkonen,34.67947178871548
+2020,Styria,Carlos Sainz,33.92557022809123
+2020,Styria,Lando Norris,30.15606242496998
+2020,Styria,Kevin Magnussen,24.878751500600238
+2020,Styria,Romain Grosjean,21.109243697478988
+2020,Styria,Antonio Giovinazzi,19.60144057623049
+2020,Styria,Daniil Kvyat,15.078031212484992
+2020,Styria,Max Verstappen,14.324129651860742
+2020,Styria,Pierre Gasly,13.570228091236492
+2020,Styria,Alexander Albon,12.816326530612244
+2020,Styria,Daniel Ricciardo,11.308523409363744
+2020,Styria,George Russell,4.523409363745498
+2020,Turkey,Charles Leclerc,105.54621848739495
+2020,Turkey,Sebastian Vettel,45.73669467787114
+2020,Turkey,Alexander Albon,42.218487394957975
+2020,Turkey,Carlos Sainz,39.579831932773104
+2020,Turkey,Lando Norris,37.82072829131652
+2020,Turkey,Valtteri Bottas,36.94117647058823
+2020,Turkey,Pierre Gasly,28.145658263305318
+2020,Turkey,George Russell,22.86834733893557
+2020,Turkey,Lewis Hamilton,17.591036414565824
+2020,Turkey,Sergio Perez,16.711484593837532
+2020,Turkey,Lance Stroll,14.95238095238095
+2020,Turkey,Max Verstappen,13.193277310924367
+2020,Turkey,Esteban Ocon,5.277310924369747
+2020,Turkey,Kimi Raikkonen,5.277310924369747
+2020,Tuscany,Alexander Albon,95.26934984520123
+2020,Tuscany,Daniel Ricciardo,64.1609907120743
+2020,Tuscany,Lando Norris,58.328173374613
+2020,Tuscany,Sebastian Vettel,58.328173374613
+2020,Tuscany,Sergio Perez,58.328173374612994
+2020,Tuscany,Charles Leclerc,40.8297213622291
+2020,Tuscany,George Russell,40.829721362229094
+2020,Tuscany,Valtteri Bottas,36.94117647058823
+2020,Tuscany,Lance Stroll,34.9969040247678
+2020,Tuscany,Kimi Raikkonen,17.4984520123839
+2021,Abu Dhabi Grand Prix,Yuki Tsunoda,152.13114754098362
+2021,Abu Dhabi Grand Prix,Valtteri Bottas,127.68149882903981
+2021,Abu Dhabi Grand Prix,Pierre Gasly,115.00390320062452
+2021,Abu Dhabi Grand Prix,Lando Norris,101.4207650273224
+2021,Abu Dhabi Grand Prix,Fernando Alonso,90.55425448868073
+2021,Abu Dhabi Grand Prix,Sebastian Vettel,80.59328649492583
+2021,Abu Dhabi Grand Prix,Charles Leclerc,77.87665886026542
+2021,Abu Dhabi Grand Prix,Carlos Sainz,74.2544886807182
+2021,Abu Dhabi Grand Prix,Sergio Perez,67.01014832162373
+2021,Abu Dhabi Grand Prix,Daniel Ricciardo,59.76580796252927
+2021,Abu Dhabi Grand Prix,Esteban Ocon,54.33255269320843
+2021,Abu Dhabi Grand Prix,Max Verstappen,51.61592505854801
+2021,Abu Dhabi Grand Prix,Lance Stroll,49.804839968774395
+2021,Abu Dhabi Grand Prix,Nicholas Latifi,35.31615925058548
+2021,Abu Dhabi Grand Prix,Antonio Giovinazzi,32.59953161592506
+2021,Abu Dhabi Grand Prix,Kimi Raikkonen,23.544106167056988
+2021,Abu Dhabi Grand Prix,George Russell,22.638563622170178
+2021,Abu Dhabi Grand Prix,Mick Schumacher,22.638563622170178
+2021,Abu Dhabi Grand Prix,Lewis Hamilton,18.110850897736142
+2021,Austrian Grand Prix,Pierre Gasly,117.1943371943372
+2021,Austrian Grand Prix,Daniel Ricciardo,109.72972972972973
+2021,Austrian Grand Prix,Carlos Sainz,96.29343629343629
+2021,Austrian Grand Prix,Sergio Perez,92.56113256113255
+2021,Austrian Grand Prix,Kimi Raikkonen,77.63191763191763
+2021,Austrian Grand Prix,George Russell,76.88545688545689
+2021,Austrian Grand Prix,Sebastian Vettel,76.88545688545689
+2021,Austrian Grand Prix,Fernando Alonso,72.4066924066924
+2021,Austrian Grand Prix,Charles Leclerc,70.91377091377092
+2021,Austrian Grand Prix,Yuki Tsunoda,67.18146718146718
+2021,Austrian Grand Prix,Lance Stroll,61.95624195624195
+2021,Austrian Grand Prix,Nicholas Latifi,45.534105534105535
+2021,Austrian Grand Prix,Antonio Giovinazzi,41.05534105534105
+2021,Austrian Grand Prix,Lewis Hamilton,27.61904761904762
+2021,Austrian Grand Prix,Valtteri Bottas,26.872586872586872
+2021,Austrian Grand Prix,Mick Schumacher,14.182754182754183
+2021,Austrian Grand Prix,Lando Norris,13.436293436293436
+2021,Austrian Grand Prix,Nikita Mazepin,8.957528957528957
+2021,Azerbaijan Grand Prix,Sebastian Vettel,163.93241167434718
+2021,Azerbaijan Grand Prix,Lando Norris,88.20276497695853
+2021,Azerbaijan Grand Prix,Sergio Perez,85.52995391705069
+2021,Azerbaijan Grand Prix,Charles Leclerc,81.07526881720432
+2021,Azerbaijan Grand Prix,Kimi Raikkonen,78.40245775729647
+2021,Azerbaijan Grand Prix,Pierre Gasly,75.72964669738865
+2021,Azerbaijan Grand Prix,Lance Stroll,74.83870967741936
+2021,Azerbaijan Grand Prix,Valtteri Bottas,70.38402457757297
+2021,Azerbaijan Grand Prix,Max Verstappen,69.49308755760369
+2021,Azerbaijan Grand Prix,Yuki Tsunoda,69.49308755760369
+2021,Azerbaijan Grand Prix,Carlos Sainz,66.82027649769586
+2021,Azerbaijan Grand Prix,Daniel Ricciardo,66.82027649769586
+2021,Azerbaijan Grand Prix,Fernando Alonso,64.14746543778803
+2021,Azerbaijan Grand Prix,Antonio Giovinazzi,63.25652841781874
+2021,Azerbaijan Grand Prix,Nicholas Latifi,42.76497695852535
+2021,Azerbaijan Grand Prix,Lewis Hamilton,32.96466973886329
+2021,Azerbaijan Grand Prix,George Russell,25.837173579109066
+2021,Azerbaijan Grand Prix,Mick Schumacher,21.382488479262676
+2021,Azerbaijan Grand Prix,Nikita Mazepin,17.81874039938556
+2021,Bahrain Grand Prix,Sergio Perez,163.99881691807158
+2021,Bahrain Grand Prix,Carlos Sainz,105.6728778467909
+2021,Bahrain Grand Prix,Lance Stroll,96.75244010647738
+2021,Bahrain Grand Prix,Yuki Tsunoda,90.57675244010649
+2021,Bahrain Grand Prix,Lando Norris,89.20437740313517
+2021,Bahrain Grand Prix,Daniel Ricciardo,87.14581484767821
+2021,Bahrain Grand Prix,Valtteri Bottas,74.79443951493641
+2021,Bahrain Grand Prix,Sebastian Vettel,67.24637681159422
+2021,Bahrain Grand Prix,Kimi Raikkonen,67.2463768115942
+2021,Bahrain Grand Prix,Lewis Hamilton,65.8740017746229
+2021,Bahrain Grand Prix,Charles Leclerc,62.44306418219462
+2021,Bahrain Grand Prix,Esteban Ocon,58.32593907128069
+2021,Bahrain Grand Prix,George Russell,56.26737651582373
+2021,Bahrain Grand Prix,Fernando Alonso,49.405501330967176
+2021,Bahrain Grand Prix,Antonio Giovinazzi,41.17125110913931
+2021,Bahrain Grand Prix,Nicholas Latifi,22.64418811002662
+2021,Bahrain Grand Prix,Max Verstappen,13.723750369713104
+2021,Bahrain Grand Prix,Mick Schumacher,13.037562851227449
+2021,Bahrain Grand Prix,Pierre Gasly,12.351375332741792
+2021,British Grand Prix,Pierre Gasly,142.36622484045165
+2021,British Grand Prix,Sergio Perez,140.0883652430044
+2021,British Grand Prix,Yuki Tsunoda,118.44869906725576
+2021,British Grand Prix,Carlos Sainz,91.11438389788904
+2021,British Grand Prix,Lewis Hamilton,84.28080510554736
+2021,British Grand Prix,Fernando Alonso,83.14187530682376
+2021,British Grand Prix,Lando Norris,78.5861561119293
+2021,British Grand Prix,Lance Stroll,74.03043691703485
+2021,British Grand Prix,Antonio Giovinazzi,69.4747177221404
+2021,British Grand Prix,George Russell,63.78006872852234
+2021,British Grand Prix,Esteban Ocon,61.502209131075105
+2021,British Grand Prix,Daniel Ricciardo,48.97398134511536
+2021,British Grand Prix,Valtteri Bottas,42.14040255277368
+2021,British Grand Prix,Kimi Raikkonen,37.58468335787923
+2021,British Grand Prix,Nicholas Latifi,27.334315169366715
+2021,British Grand Prix,Mick Schumacher,13.667157584683357
+2021,British Grand Prix,Nikita Mazepin,7.972508591065292
+2021,British Grand Prix,Sebastian Vettel,7.972508591065292
+2021,Dutch Grand Prix,Sergio Perez,167.61904761904765
+2021,Dutch Grand Prix,Lando Norris,104.12698412698414
+2021,Dutch Grand Prix,Fernando Alonso,91.42857142857144
+2021,Dutch Grand Prix,Sebastian Vettel,63.4920634920635
+2021,Dutch Grand Prix,Pierre Gasly,60.95238095238096
+2021,Dutch Grand Prix,Antonio Giovinazzi,58.41269841269842
+2021,Dutch Grand Prix,Nicholas Latifi,57.14285714285715
+2021,Dutch Grand Prix,Robert Kubica,52.06349206349207
+2021,Dutch Grand Prix,Valtteri Bottas,49.52380952380953
+2021,Dutch Grand Prix,Daniel Ricciardo,40.63492063492064
+2021,Dutch Grand Prix,Carlos Sainz,39.36507936507937
+2021,Dutch Grand Prix,Yuki Tsunoda,34.28571428571429
+2021,Dutch Grand Prix,Esteban Ocon,31.74603174603175
+2021,Dutch Grand Prix,Lance Stroll,29.20634920634921
+2021,Dutch Grand Prix,Max Verstappen,25.3968253968254
+2021,Dutch Grand Prix,Lewis Hamilton,24.12698412698413
+2021,Dutch Grand Prix,Charles Leclerc,21.58730158730159
+2021,Dutch Grand Prix,George Russell,21.58730158730159
+2021,Dutch Grand Prix,Mick Schumacher,6.34920634920635
+2021,Dutch Grand Prix,Nikita Mazepin,6.34920634920635
+2021,Emilia Romagna Grand Prix,Lewis Hamilton,142.8985507246377
+2021,Emilia Romagna Grand Prix,Lando Norris,114.07867494824016
+2021,Emilia Romagna Grand Prix,Carlos Sainz,109.27536231884058
+2021,Emilia Romagna Grand Prix,Fernando Alonso,104.472049689441
+2021,Emilia Romagna Grand Prix,Esteban Ocon,94.86542443064182
+2021,Emilia Romagna Grand Prix,Pierre Gasly,72.04968944099379
+2021,Emilia Romagna Grand Prix,Kimi Raikkonen,68.4472049689441
+2021,Emilia Romagna Grand Prix,Sebastian Vettel,66.0455486542443
+2021,Emilia Romagna Grand Prix,Yuki Tsunoda,60.041407867494826
+2021,Emilia Romagna Grand Prix,Antonio Giovinazzi,58.84057971014492
+2021,Emilia Romagna Grand Prix,Daniel Ricciardo,54.03726708074534
+2021,Emilia Romagna Grand Prix,Lance Stroll,49.23395445134575
+2021,Emilia Romagna Grand Prix,Sergio Perez,40.82815734989648
+2021,Emilia Romagna Grand Prix,Valtteri Bottas,30.020703933747413
+2021,Emilia Romagna Grand Prix,George Russell,26.41821946169772
+2021,Emilia Romagna Grand Prix,Max Verstappen,24.016563146997928
+2021,Emilia Romagna Grand Prix,Charles Leclerc,22.815734989648032
+2021,Emilia Romagna Grand Prix,Nikita Mazepin,10.807453416149068
+2021,Emilia Romagna Grand Prix,Mick Schumacher,8.405797101449275
+2021,French Grand Prix,Lando Norris,117.89623312011372
+2021,French Grand Prix,Daniel Ricciardo,103.05614783226724
+2021,French Grand Prix,Lance Stroll,97.28500355366027
+2021,French Grand Prix,Max Verstappen,79.14712153518124
+2021,French Grand Prix,Sergio Perez,76.67377398720683
+2021,French Grand Prix,Pierre Gasly,72.55152807391613
+2021,French Grand Prix,Fernando Alonso,71.727078891258
+2021,French Grand Prix,Esteban Ocon,65.95593461265103
+2021,French Grand Prix,Sebastian Vettel,65.13148542999289
+2021,French Grand Prix,Charles Leclerc,62.65813788201848
+2021,French Grand Prix,Carlos Sainz,56.06254442075338
+2021,French Grand Prix,George Russell,53.58919687277896
+2021,French Grand Prix,Yuki Tsunoda,46.99360341151386
+2021,French Grand Prix,Kimi Raikkonen,46.169154228855724
+2021,French Grand Prix,Antonio Giovinazzi,38.749111584932486
+2021,French Grand Prix,Nicholas Latifi,32.97796730632552
+2021,French Grand Prix,Lewis Hamilton,32.15351812366738
+2021,French Grand Prix,Valtteri Bottas,30.504619758351105
+2021,French Grand Prix,Nikita Mazepin,11.542288557213931
+2021,French Grand Prix,Mick Schumacher,1.6488983653162759
+2021,Hungarian Grand Prix,Lewis Hamilton,264.79213907785334
+2021,Hungarian Grand Prix,Pierre Gasly,226.21315192743765
+2021,Hungarian Grand Prix,Fernando Alonso,213.93801965230537
+2021,Hungarian Grand Prix,Carlos Sainz,120.99773242630386
+2021,Hungarian Grand Prix,Max Verstappen,112.22978080120937
+2021,Hungarian Grand Prix,Kimi Raikkonen,87.67951625094483
+2021,Hungarian Grand Prix,Yuki Tsunoda,84.17233560090703
+2021,Hungarian Grand Prix,Mick Schumacher,80.66515495086924
+2021,Hungarian Grand Prix,Esteban Ocon,70.14361300075586
+2021,Hungarian Grand Prix,Sebastian Vettel,66.63643235071807
+2021,Hungarian Grand Prix,Daniel Ricciardo,63.12925170068027
+2021,Hungarian Grand Prix,Nicholas Latifi,56.114890400604686
+2021,Hungarian Grand Prix,George Russell,45.593348450491305
+2021,Hungarian Grand Prix,Antonio Giovinazzi,28.057445200302343
+2021,Italian Grand Prix,Valtteri Bottas,265.1428571428571
+2021,Italian Grand Prix,Sergio Perez,168.72727272727272
+2021,Italian Grand Prix,Lando Norris,144.6233766233766
+2021,Italian Grand Prix,Daniel Ricciardo,140.6060606060606
+2021,Italian Grand Prix,Lewis Hamilton,76.32900432900433
+2021,Italian Grand Prix,Charles Leclerc,72.3116883116883
+2021,Italian Grand Prix,Max Verstappen,66.28571428571428
+2021,Italian Grand Prix,Nicholas Latifi,62.26839826839827
+2021,Italian Grand Prix,Carlos Sainz,62.268398268398265
+2021,Italian Grand Prix,Lance Stroll,54.23376623376623
+2021,Italian Grand Prix,Antonio Giovinazzi,46.1991341991342
+2021,Italian Grand Prix,Esteban Ocon,42.18181818181818
+2021,Italian Grand Prix,George Russell,34.14718614718615
+2021,Italian Grand Prix,Mick Schumacher,34.14718614718615
+2021,Italian Grand Prix,Nikita Mazepin,32.13852813852814
+2021,Italian Grand Prix,Robert Kubica,30.129870129870127
+2021,Italian Grand Prix,Fernando Alonso,26.11255411255411
+2021,Italian Grand Prix,Sebastian Vettel,18.07792207792208
+2021,Mexico City Grand Prix,Fernando Alonso,123.5588972431078
+2021,Mexico City Grand Prix,Lando Norris,122.10526315789475
+2021,Mexico City Grand Prix,Charles Leclerc,107.56892230576443
+2021,Mexico City Grand Prix,Sebastian Vettel,104.66165413533835
+2021,Mexico City Grand Prix,Valtteri Bottas,101.75438596491229
+2021,Mexico City Grand Prix,Carlos Sainz,93.0325814536341
+2021,Mexico City Grand Prix,Kimi Raikkonen,93.0325814536341
+2021,Mexico City Grand Prix,Daniel Ricciardo,84.3107769423559
+2021,Mexico City Grand Prix,Pierre Gasly,74.13533834586467
+2021,Mexico City Grand Prix,Sergio Perez,56.69172932330827
+2021,Mexico City Grand Prix,Esteban Ocon,55.23809523809524
+2021,Mexico City Grand Prix,Lewis Hamilton,53.78446115288221
+2021,Mexico City Grand Prix,Lance Stroll,42.15538847117795
+2021,Mexico City Grand Prix,Max Verstappen,29.072681704260653
+2021,Mexico City Grand Prix,Antonio Giovinazzi,27.61904761904762
+2021,Mexico City Grand Prix,George Russell,18.897243107769427
+2021,Mexico City Grand Prix,Nicholas Latifi,13.082706766917294
+2021,Monaco Grand Prix,Sergio Perez,189.7924297924298
+2021,Monaco Grand Prix,Kimi Raikkonen,121.80708180708181
+2021,Monaco Grand Prix,Carlos Sainz,107.64346764346764
+2021,Monaco Grand Prix,Esteban Ocon,104.81074481074481
+2021,Monaco Grand Prix,Lance Stroll,101.97802197802199
+2021,Monaco Grand Prix,Antonio Giovinazzi,96.31257631257633
+2021,Monaco Grand Prix,Sebastian Vettel,90.64713064713065
+2021,Monaco Grand Prix,Daniel Ricciardo,79.31623931623932
+2021,Monaco Grand Prix,Fernando Alonso,76.4835164835165
+2021,Monaco Grand Prix,Max Verstappen,56.65445665445666
+2021,Monaco Grand Prix,Lando Norris,50.98901098901099
+2021,Monaco Grand Prix,Lewis Hamilton,39.65811965811966
+2021,Monaco Grand Prix,George Russell,36.82539682539682
+2021,Monaco Grand Prix,Nicholas Latifi,36.82539682539682
+2021,Monaco Grand Prix,Yuki Tsunoda,36.82539682539682
+2021,Monaco Grand Prix,Nikita Mazepin,19.82905982905983
+2021,Monaco Grand Prix,Mick Schumacher,8.498168498168498
+2021,Portuguese Grand Prix,Daniel Ricciardo,110.47619047619048
+2021,Portuguese Grand Prix,Charles Leclerc,106.18585298196949
+2021,Portuguese Grand Prix,Fernando Alonso,104.040684234859
+2021,Portuguese Grand Prix,Lando Norris,93.31484049930653
+2021,Portuguese Grand Prix,Pierre Gasly,89.02450300508553
+2021,Portuguese Grand Prix,Esteban Ocon,82.58899676375405
+2021,Portuguese Grand Prix,Sergio Perez,79.3712436430883
+2021,Portuguese Grand Prix,Carlos Sainz,77.22607489597782
+2021,Portuguese Grand Prix,Lance Stroll,74.00832177531207
+2021,Portuguese Grand Prix,Lewis Hamilton,63.282478039759596
+2021,Portuguese Grand Prix,Max Verstappen,60.06472491909385
+2021,Portuguese Grand Prix,George Russell,40.758206195099405
+2021,Portuguese Grand Prix,Sebastian Vettel,40.758206195099405
+2021,Portuguese Grand Prix,Antonio Giovinazzi,37.54045307443366
+2021,Portuguese Grand Prix,Mick Schumacher,32.17753120665742
+2021,Portuguese Grand Prix,Nicholas Latifi,26.814609338881183
+2021,Portuguese Grand Prix,Yuki Tsunoda,25.74202496532594
+2021,Portuguese Grand Prix,Valtteri Bottas,19.306518723994454
+2021,Portuguese Grand Prix,Nikita Mazepin,15.016181229773464
+2021,Qatar Grand Prix,Sergio Perez,121.40873015873018
+2021,Qatar Grand Prix,Esteban Ocon,82.28174603174604
+2021,Qatar Grand Prix,Charles Leclerc,81.1309523809524
+2021,Qatar Grand Prix,Sebastian Vettel,75.37698412698414
+2021,Qatar Grand Prix,Lance Stroll,73.07539682539684
+2021,Qatar Grand Prix,Lando Norris,68.47222222222223
+2021,Qatar Grand Prix,Valtteri Bottas,66.74603174603175
+2021,Qatar Grand Prix,Carlos Sainz,66.17063492063492
+2021,Qatar Grand Prix,Daniel Ricciardo,61.56746031746032
+2021,Qatar Grand Prix,Pierre Gasly,55.81349206349207
+2021,Qatar Grand Prix,Yuki Tsunoda,44.88095238095239
+2021,Qatar Grand Prix,Kimi Raikkonen,42.00396825396826
+2021,Qatar Grand Prix,Fernando Alonso,38.551587301587304
+2021,Qatar Grand Prix,Antonio Giovinazzi,37.40079365079365
+2021,Qatar Grand Prix,George Russell,34.523809523809526
+2021,Qatar Grand Prix,Nicholas Latifi,33.37301587301587
+2021,Qatar Grand Prix,Mick Schumacher,25.31746031746032
+2021,Qatar Grand Prix,Max Verstappen,21.28968253968254
+2021,Qatar Grand Prix,Nikita Mazepin,17.261904761904763
+2021,Russian Grand Prix,Daniel Ricciardo,118.19764464925755
+2021,Russian Grand Prix,Max Verstappen,116.415770609319
+2021,Russian Grand Prix,Lewis Hamilton,111.07014848950332
+2021,Russian Grand Prix,Fernando Alonso,106.91244239631337
+2021,Russian Grand Prix,Charles Leclerc,105.72452636968767
+2021,Russian Grand Prix,Sergio Perez,91.4695340501792
+2021,Russian Grand Prix,Valtteri Bottas,86.71786994367639
+2021,Russian Grand Prix,Pierre Gasly,79.59037378392217
+2021,Russian Grand Prix,Carlos Sainz,77.21454173067076
+2021,Russian Grand Prix,Sebastian Vettel,71.27496159754224
+2021,Russian Grand Prix,Kimi Raikkonen,65.33538146441373
+2021,Russian Grand Prix,Esteban Ocon,64.14746543778801
+2021,Russian Grand Prix,Lance Stroll,57.0199692780338
+2021,Russian Grand Prix,Lando Norris,54.05017921146953
+2021,Russian Grand Prix,George Russell,52.862263184843826
+2021,Russian Grand Prix,Antonio Giovinazzi,23.16436251920123
+2021,Russian Grand Prix,Nicholas Latifi,7.127496159754225
+2021,Russian Grand Prix,Yuki Tsunoda,6.533538146441373
+2021,Russian Grand Prix,Mick Schumacher,5.345622119815668
+2021,Russian Grand Prix,Nikita Mazepin,4.157706093189964
+2021,Sao Paulo Grand Prix,Lewis Hamilton,102.83318358790058
+2021,Sao Paulo Grand Prix,Lando Norris,93.1057202755316
+2021,Sao Paulo Grand Prix,Fernando Alonso,88.24198861934711
+2021,Sao Paulo Grand Prix,Pierre Gasly,68.0922431865828
+2021,Sao Paulo Grand Prix,Esteban Ocon,67.39742437855645
+2021,Sao Paulo Grand Prix,Max Verstappen,66.7026055705301
+2021,Sao Paulo Grand Prix,George Russell,65.31296795447739
+2021,Sao Paulo Grand Prix,Yuki Tsunoda,62.53369272237197
+2021,Sao Paulo Grand Prix,Daniel Ricciardo,59.05959868224019
+2021,Sao Paulo Grand Prix,Charles Leclerc,53.501048218029354
+2021,Sao Paulo Grand Prix,Sebastian Vettel,50.72177298592393
+2021,Sao Paulo Grand Prix,Antonio Giovinazzi,50.02695417789757
+2021,Sao Paulo Grand Prix,Kimi Raikkonen,49.33213536987122
+2021,Sao Paulo Grand Prix,Sergio Perez,49.33213536987122
+2021,Sao Paulo Grand Prix,Carlos Sainz,46.5528601377658
+2021,Sao Paulo Grand Prix,Valtteri Bottas,38.90985324947589
+2021,Sao Paulo Grand Prix,Lance Stroll,34.0461215932914
+2021,Sao Paulo Grand Prix,Nicholas Latifi,21.53938304881701
+2021,Sao Paulo Grand Prix,Nikita Mazepin,19.454926624737947
+2021,Sao Paulo Grand Prix,Mick Schumacher,7.643006888289907
+2021,Saudi Arabian Grand Prix,Carlos Sainz,151.67070217917677
+2021,Saudi Arabian Grand Prix,Max Verstappen,110.47619047619048
+2021,Saudi Arabian Grand Prix,Valtteri Bottas,97.36884584342212
+2021,Saudi Arabian Grand Prix,Yuki Tsunoda,97.36884584342212
+2021,Saudi Arabian Grand Prix,Daniel Ricciardo,86.13397901533494
+2021,Saudi Arabian Grand Prix,Lando Norris,78.64406779661016
+2021,Saudi Arabian Grand Prix,Charles Leclerc,74.89911218724778
+2021,Saudi Arabian Grand Prix,Lewis Hamilton,73.02663438256658
+2021,Saudi Arabian Grand Prix,Antonio Giovinazzi,67.409200968523
+2021,Saudi Arabian Grand Prix,Esteban Ocon,59.919289749798224
+2021,Saudi Arabian Grand Prix,Lance Stroll,52.429378531073446
+2021,Saudi Arabian Grand Prix,Nicholas Latifi,46.811945117029865
+2021,Saudi Arabian Grand Prix,Kimi Raikkonen,44.93946731234867
+2021,Saudi Arabian Grand Prix,Fernando Alonso,43.06698950766747
+2021,Saudi Arabian Grand Prix,Sebastian Vettel,39.32203389830509
+2021,Saudi Arabian Grand Prix,Pierre Gasly,26.214689265536723
+2021,Saudi Arabian Grand Prix,Nikita Mazepin,20.597255851493138
+2021,Saudi Arabian Grand Prix,George Russell,16.852300242130752
+2021,Spanish Grand Prix,George Russell,103.42451874366769
+2021,Spanish Grand Prix,Kimi Raikkonen,96.3728470111449
+2021,Spanish Grand Prix,Lando Norris,75.21783181357651
+2021,Spanish Grand Prix,Pierre Gasly,75.21783181357651
+2021,Spanish Grand Prix,Daniel Ricciardo,71.30023640661939
+2021,Spanish Grand Prix,Valtteri Bottas,68.94967916244512
+2021,Spanish Grand Prix,Carlos Sainz,68.1661600810537
+2021,Spanish Grand Prix,Nicholas Latifi,68.1661600810537
+2021,Spanish Grand Prix,Lance Stroll,61.114488348530905
+2021,Spanish Grand Prix,Sebastian Vettel,52.49577845322527
+2021,Spanish Grand Prix,Sergio Perez,50.145221209051
+2021,Spanish Grand Prix,Fernando Alonso,49.36170212765958
+2021,Spanish Grand Prix,Antonio Giovinazzi,46.22762580209389
+2021,Spanish Grand Prix,Lewis Hamilton,46.22762580209389
+2021,Spanish Grand Prix,Esteban Ocon,39.959473150962516
+2021,Spanish Grand Prix,Max Verstappen,30.557244174265453
+2021,Spanish Grand Prix,Charles Leclerc,28.99020601148261
+2021,Spanish Grand Prix,Mick Schumacher,23.505572441742657
+2021,Spanish Grand Prix,Nikita Mazepin,10.969267139479907
+2021,Spanish Grand Prix,Yuki Tsunoda,3.9175954069571093
+2021,Styrian Grand Prix,Charles Leclerc,176.9873663751215
+2021,Styrian Grand Prix,Carlos Sainz,120.62196307094267
+2021,Styrian Grand Prix,Kimi Raikkonen,116.11273080660837
+2021,Styrian Grand Prix,Daniel Ricciardo,98.07580174927115
+2021,Styrian Grand Prix,Lance Stroll,90.1846452866861
+2021,Styrian Grand Prix,Yuki Tsunoda,87.93002915451896
+2021,Styrian Grand Prix,Sebastian Vettel,82.29348882410108
+2021,Styrian Grand Prix,Esteban Ocon,65.38386783284743
+2021,Styrian Grand Prix,Valtteri Bottas,59.74732750242955
+2021,Styrian Grand Prix,Fernando Alonso,57.4927113702624
+2021,Styrian Grand Prix,Lando Norris,57.4927113702624
+2021,Styrian Grand Prix,Antonio Giovinazzi,50.72886297376094
+2021,Styrian Grand Prix,Sergio Perez,39.45578231292517
+2021,Styrian Grand Prix,Mick Schumacher,21.41885325558795
+2021,Styrian Grand Prix,George Russell,15.78231292517007
+2021,Styrian Grand Prix,Nicholas Latifi,11.273080660835763
+2021,Styrian Grand Prix,Nikita Mazepin,10.145772594752188
+2021,Turkish Grand Prix,Lewis Hamilton,202.53968253968256
+2021,Turkish Grand Prix,Carlos Sainz,185.96825396825398
+2021,Turkish Grand Prix,Sergio Perez,93.90476190476191
+2021,Turkish Grand Prix,Daniel Ricciardo,84.69841269841271
+2021,Turkish Grand Prix,Esteban Ocon,84.69841269841271
+2021,Turkish Grand Prix,Charles Leclerc,71.80952380952382
+2021,Turkish Grand Prix,Lance Stroll,68.12698412698413
+2021,Turkish Grand Prix,Antonio Giovinazzi,53.396825396825406
+2021,Turkish Grand Prix,Lando Norris,49.714285714285715
+2021,Turkish Grand Prix,Valtteri Bottas,36.82539682539683
+2021,Turkish Grand Prix,Max Verstappen,34.98412698412699
+2021,Turkish Grand Prix,Nicholas Latifi,33.142857142857146
+2021,Turkish Grand Prix,Kimi Raikkonen,31.301587301587304
+2021,Turkish Grand Prix,Pierre Gasly,29.460317460317462
+2021,Turkish Grand Prix,Fernando Alonso,25.77777777777778
+2021,Turkish Grand Prix,Sebastian Vettel,25.77777777777778
+2021,Turkish Grand Prix,Yuki Tsunoda,12.88888888888889
+2021,Turkish Grand Prix,George Russell,11.047619047619047
+2021,Turkish Grand Prix,Mick Schumacher,9.206349206349206
+2021,United States Grand Prix,Sebastian Vettel,122.94930875576038
+2021,United States Grand Prix,Lance Stroll,109.58525345622121
+2021,United States Grand Prix,Valtteri Bottas,99.78494623655915
+2021,United States Grand Prix,Antonio Giovinazzi,83.74807987711215
+2021,United States Grand Prix,Fernando Alonso,83.74807987711215
+2021,United States Grand Prix,Kimi Raikkonen,80.18433179723503
+2021,United States Grand Prix,Yuki Tsunoda,58.801843317972356
+2021,United States Grand Prix,Max Verstappen,52.565284178187405
+2021,United States Grand Prix,Carlos Sainz,51.674347158218126
+2021,United States Grand Prix,George Russell,43.655913978494624
+2021,United States Grand Prix,Daniel Ricciardo,41.874039938556066
+2021,United States Grand Prix,Mick Schumacher,35.63748079877112
+2021,United States Grand Prix,Lando Norris,33.855606758832565
+2021,United States Grand Prix,Sergio Perez,32.96466973886329
+2021,United States Grand Prix,Charles Leclerc,32.073732718894014
+2021,United States Grand Prix,Nicholas Latifi,23.16436251920123
+2021,United States Grand Prix,Pierre Gasly,18.70967741935484
+2021,United States Grand Prix,Lewis Hamilton,17.81874039938556
+2021,United States Grand Prix,Nikita Mazepin,12.473118279569894
+2021,United States Grand Prix,Esteban Ocon,11.582181259600615
+2022,Abu Dhabi Grand Prix,George Russell,109.03602058319039
+2022,Abu Dhabi Grand Prix,Sebastian Vettel,105.0566037735849
+2022,Abu Dhabi Grand Prix,Daniel Ricciardo,103.46483704974271
+2022,Abu Dhabi Grand Prix,Carlos Sainz,95.50600343053173
+2022,Abu Dhabi Grand Prix,Lewis Hamilton,90.73070325900514
+2022,Abu Dhabi Grand Prix,Sergio Perez,83.56775300171526
+2022,Abu Dhabi Grand Prix,Zhou Guanyu,76.40480274442538
+2022,Abu Dhabi Grand Prix,Lance Stroll,73.22126929674099
+2022,Abu Dhabi Grand Prix,Esteban Ocon,66.85420240137222
+2022,Abu Dhabi Grand Prix,Yuki Tsunoda,64.46655231560892
+2022,Abu Dhabi Grand Prix,Fernando Alonso,62.874785591766724
+2022,Abu Dhabi Grand Prix,Alexander Albon,62.078902229845625
+2022,Abu Dhabi Grand Prix,Lando Norris,62.078902229845625
+2022,Abu Dhabi Grand Prix,Valtteri Bottas,43.77358490566038
+2022,Abu Dhabi Grand Prix,Pierre Gasly,38.99828473413379
+2022,Abu Dhabi Grand Prix,Mick Schumacher,35.8147512864494
+2022,Abu Dhabi Grand Prix,Charles Leclerc,30.243567753001717
+2022,Abu Dhabi Grand Prix,Kevin Magnussen,29.447684391080617
+2022,Abu Dhabi Grand Prix,Max Verstappen,15.917667238421956
+2022,Abu Dhabi Grand Prix,Nicholas Latifi,15.121783876500858
+2022,Australian Grand Prix,Sergio Perez,133.09090909090907
+2022,Australian Grand Prix,Valtteri Bottas,114.54545454545453
+2022,Australian Grand Prix,Kevin Magnussen,103.63636363636363
+2022,Australian Grand Prix,Fernando Alonso,88.36363636363635
+2022,Australian Grand Prix,Pierre Gasly,85.09090909090908
+2022,Australian Grand Prix,Lance Stroll,84.0
+2022,Australian Grand Prix,Zhou Guanyu,84.0
+2022,Australian Grand Prix,George Russell,78.54545454545453
+2022,Australian Grand Prix,Lewis Hamilton,76.36363636363636
+2022,Australian Grand Prix,Max Verstappen,76.36363636363636
+2022,Australian Grand Prix,Alexander Albon,74.18181818181817
+2022,Australian Grand Prix,Daniel Ricciardo,65.45454545454545
+2022,Australian Grand Prix,Lando Norris,64.36363636363636
+2022,Australian Grand Prix,Esteban Ocon,56.72727272727272
+2022,Australian Grand Prix,Mick Schumacher,51.272727272727266
+2022,Australian Grand Prix,Sebastian Vettel,38.18181818181818
+2022,Australian Grand Prix,Yuki Tsunoda,36.0
+2022,Australian Grand Prix,Nicholas Latifi,20.727272727272727
+2022,Austrian Grand Prix,Mick Schumacher,112.94477485131692
+2022,Austrian Grand Prix,Fernando Alonso,104.0747663551402
+2022,Austrian Grand Prix,Lando Norris,96.97875955819882
+2022,Austrian Grand Prix,Kevin Magnussen,92.2480883602379
+2022,Austrian Grand Prix,George Russell,87.51741716227698
+2022,Austrian Grand Prix,Esteban Ocon,82.19541206457095
+2022,Austrian Grand Prix,Daniel Ricciardo,78.05607476635515
+2022,Austrian Grand Prix,Lance Stroll,77.46474086661003
+2022,Austrian Grand Prix,Max Verstappen,75.69073916737469
+2022,Austrian Grand Prix,Yuki Tsunoda,72.142735768904
+2022,Austrian Grand Prix,Zhou Guanyu,72.142735768904
+2022,Austrian Grand Prix,Sebastian Vettel,62.681393372982164
+2022,Austrian Grand Prix,Lewis Hamilton,59.13338997451147
+2022,Austrian Grand Prix,Charles Leclerc,57.95072217502124
+2022,Austrian Grand Prix,Valtteri Bottas,54.40271877655056
+2022,Austrian Grand Prix,Alexander Albon,53.81138487680544
+2022,Austrian Grand Prix,Pierre Gasly,40.80203908241292
+2022,Austrian Grand Prix,Carlos Sainz,22.47068819031436
+2022,Austrian Grand Prix,Nicholas Latifi,10.644010195412065
+2022,Azerbaijan Grand Prix,Lewis Hamilton,151.85454545454544
+2022,Azerbaijan Grand Prix,Lando Norris,139.86602870813397
+2022,Azerbaijan Grand Prix,Fernando Alonso,138.53397129186604
+2022,Azerbaijan Grand Prix,Yuki Tsunoda,105.23253588516747
+2022,Azerbaijan Grand Prix,Daniel Ricciardo,91.91196172248804
+2022,Azerbaijan Grand Prix,Sebastian Vettel,85.25167464114833
+2022,Azerbaijan Grand Prix,Max Verstappen,78.59138755980861
+2022,Azerbaijan Grand Prix,Esteban Ocon,77.25933014354067
+2022,Azerbaijan Grand Prix,Valtteri Bottas,75.92727272727274
+2022,Azerbaijan Grand Prix,Kevin Magnussen,70.59904306220096
+2022,Azerbaijan Grand Prix,Pierre Gasly,62.6066985645933
+2022,Azerbaijan Grand Prix,Charles Leclerc,51.95023923444976
+2022,Azerbaijan Grand Prix,Alexander Albon,49.286124401913874
+2022,Azerbaijan Grand Prix,Zhou Guanyu,46.622009569377994
+2022,Azerbaijan Grand Prix,Lance Stroll,43.95789473684211
+2022,Azerbaijan Grand Prix,Nicholas Latifi,26.641148325358852
+2022,Azerbaijan Grand Prix,Mick Schumacher,25.30909090909091
+2022,Azerbaijan Grand Prix,Sergio Perez,25.30909090909091
+2022,Azerbaijan Grand Prix,George Russell,23.97703349282297
+2022,Bahrain Grand Prix,Valtteri Bottas,112.04545454545453
+2022,Bahrain Grand Prix,Zhou Guanyu,107.43181818181817
+2022,Bahrain Grand Prix,Lewis Hamilton,97.54545454545455
+2022,Bahrain Grand Prix,Yuki Tsunoda,96.88636363636363
+2022,Bahrain Grand Prix,Esteban Ocon,91.61363636363636
+2022,Bahrain Grand Prix,Sergio Perez,81.06818181818181
+2022,Bahrain Grand Prix,Fernando Alonso,74.47727272727272
+2022,Bahrain Grand Prix,Kevin Magnussen,66.56818181818181
+2022,Bahrain Grand Prix,George Russell,62.61363636363636
+2022,Bahrain Grand Prix,Mick Schumacher,61.29545454545455
+2022,Bahrain Grand Prix,Lance Stroll,60.63636363636363
+2022,Bahrain Grand Prix,Carlos Sainz,50.090909090909086
+2022,Bahrain Grand Prix,Pierre Gasly,43.5
+2022,Bahrain Grand Prix,Max Verstappen,37.56818181818181
+2022,Bahrain Grand Prix,Alexander Albon,35.590909090909086
+2022,Bahrain Grand Prix,Lando Norris,33.61363636363636
+2022,Bahrain Grand Prix,Daniel Ricciardo,32.29545454545455
+2022,Bahrain Grand Prix,Nico Hulkenberg,25.704545454545453
+2022,Bahrain Grand Prix,Nicholas Latifi,19.113636363636363
+2022,Bahrain Grand Prix,Charles Leclerc,13.181818181818182
+2022,Belgian Grand Prix,Yuki Tsunoda,110.03952569169961
+2022,Belgian Grand Prix,Charles Leclerc,104.53754940711462
+2022,Belgian Grand Prix,Fernando Alonso,103.75155279503106
+2022,Belgian Grand Prix,Pierre Gasly,102.17955957086392
+2022,Belgian Grand Prix,Esteban Ocon,101.39356295878035
+2022,Belgian Grand Prix,Max Verstappen,98.24957651044608
+2022,Belgian Grand Prix,Alexander Albon,92.7476002258611
+2022,Belgian Grand Prix,Lance Stroll,83.31564088085827
+2022,Belgian Grand Prix,Sebastian Vettel,80.95765104460757
+2022,Belgian Grand Prix,Lando Norris,80.17165443252401
+2022,Belgian Grand Prix,Zhou Guanyu,74.66967814793902
+2022,Belgian Grand Prix,Carlos Sainz,72.31168831168831
+2022,Belgian Grand Prix,George Russell,69.16770186335404
+2022,Belgian Grand Prix,Daniel Ricciardo,51.08977978543196
+2022,Belgian Grand Prix,Sergio Perez,45.58780350084698
+2022,Belgian Grand Prix,Mick Schumacher,38.51383399209486
+2022,Belgian Grand Prix,Nicholas Latifi,30.653867871259177
+2022,Belgian Grand Prix,Kevin Magnussen,26.723884810841334
+2022,British Grand Prix,Sergio Perez,178.86713286713288
+2022,British Grand Prix,Charles Leclerc,141.14685314685315
+2022,British Grand Prix,Mick Schumacher,139.93006993006995
+2022,British Grand Prix,Lewis Hamilton,135.06293706293707
+2022,British Grand Prix,Kevin Magnussen,99.77622377622379
+2022,British Grand Prix,Carlos Sainz,94.9090909090909
+2022,British Grand Prix,Esteban Ocon,87.60839160839161
+2022,British Grand Prix,Max Verstappen,87.60839160839161
+2022,British Grand Prix,Sebastian Vettel,87.60839160839161
+2022,British Grand Prix,Lance Stroll,82.74125874125875
+2022,British Grand Prix,Nicholas Latifi,80.30769230769232
+2022,British Grand Prix,Fernando Alonso,74.22377622377623
+2022,British Grand Prix,Yuki Tsunoda,59.62237762237763
+2022,British Grand Prix,Pierre Gasly,49.888111888111894
+2022,British Grand Prix,Lando Norris,40.15384615384616
+2022,British Grand Prix,Valtteri Bottas,37.72027972027972
+2022,British Grand Prix,Daniel Ricciardo,24.335664335664337
+2022,Canadian Grand Prix,Charles Leclerc,201.986013986014
+2022,Canadian Grand Prix,George Russell,100.993006993007
+2022,Canadian Grand Prix,Lance Stroll,98.55944055944056
+2022,Canadian Grand Prix,Carlos Sainz,94.9090909090909
+2022,Canadian Grand Prix,Valtteri Bottas,71.7902097902098
+2022,Canadian Grand Prix,Max Verstappen,71.79020979020979
+2022,Canadian Grand Prix,Daniel Ricciardo,65.7062937062937
+2022,Canadian Grand Prix,Fernando Alonso,64.4895104895105
+2022,Canadian Grand Prix,Lewis Hamilton,62.05594405594406
+2022,Canadian Grand Prix,Zhou Guanyu,59.62237762237763
+2022,Canadian Grand Prix,Sebastian Vettel,58.405594405594414
+2022,Canadian Grand Prix,Esteban Ocon,57.188811188811194
+2022,Canadian Grand Prix,Lando Norris,55.97202797202797
+2022,Canadian Grand Prix,Yuki Tsunoda,52.32167832167833
+2022,Canadian Grand Prix,Alexander Albon,51.10489510489511
+2022,Canadian Grand Prix,Pierre Gasly,49.888111888111894
+2022,Canadian Grand Prix,Kevin Magnussen,30.41958041958042
+2022,Canadian Grand Prix,Nicholas Latifi,30.41958041958042
+2022,Canadian Grand Prix,Mick Schumacher,17.034965034965037
+2022,Canadian Grand Prix,Sergio Perez,13.384615384615385
+2022,Dutch Grand Prix,George Russell,144.88537549407116
+2022,Dutch Grand Prix,Carlos Sainz,115.5415019762846
+2022,Dutch Grand Prix,Alexander Albon,103.6205533596838
+2022,Dutch Grand Prix,Lewis Hamilton,101.78656126482214
+2022,Dutch Grand Prix,Fernando Alonso,90.78260869565217
+2022,Dutch Grand Prix,Valtteri Bottas,78.86166007905139
+2022,Dutch Grand Prix,Sergio Perez,74.27667984189723
+2022,Dutch Grand Prix,Esteban Ocon,73.3596837944664
+2022,Dutch Grand Prix,Lando Norris,66.02371541501977
+2022,Dutch Grand Prix,Pierre Gasly,63.27272727272727
+2022,Dutch Grand Prix,Max Verstappen,54.102766798418976
+2022,Dutch Grand Prix,Zhou Guanyu,53.18577075098814
+2022,Dutch Grand Prix,Charles Leclerc,50.434782608695656
+2022,Dutch Grand Prix,Lance Stroll,46.766798418972336
+2022,Dutch Grand Prix,Mick Schumacher,39.430830039525695
+2022,Dutch Grand Prix,Sebastian Vettel,38.51383399209486
+2022,Dutch Grand Prix,Yuki Tsunoda,34.845849802371546
+2022,Dutch Grand Prix,Kevin Magnussen,33.01185770750988
+2022,Dutch Grand Prix,Daniel Ricciardo,17.422924901185773
+2022,Dutch Grand Prix,Nicholas Latifi,8.25296442687747
+2022,Emilia Romagna Grand Prix,Charles Leclerc,278.9752066115703
+2022,Emilia Romagna Grand Prix,Yuki Tsunoda,152.42975206611573
+2022,Emilia Romagna Grand Prix,Lando Norris,103.53719008264463
+2022,Emilia Romagna Grand Prix,George Russell,94.9090909090909
+2022,Emilia Romagna Grand Prix,Valtteri Bottas,89.15702479338844
+2022,Emilia Romagna Grand Prix,Zhou Guanyu,86.2809917355372
+2022,Emilia Romagna Grand Prix,Sebastian Vettel,77.65289256198348
+2022,Emilia Romagna Grand Prix,Alexander Albon,69.02479338842976
+2022,Emilia Romagna Grand Prix,Nicholas Latifi,54.64462809917356
+2022,Emilia Romagna Grand Prix,Sergio Perez,54.64462809917356
+2022,Emilia Romagna Grand Prix,Mick Schumacher,51.768595041322314
+2022,Emilia Romagna Grand Prix,Pierre Gasly,48.892561983471076
+2022,Emilia Romagna Grand Prix,Daniel Ricciardo,37.388429752066116
+2022,Emilia Romagna Grand Prix,Kevin Magnussen,37.388429752066116
+2022,Emilia Romagna Grand Prix,Lance Stroll,31.63636363636364
+2022,Emilia Romagna Grand Prix,Lewis Hamilton,28.7603305785124
+2022,Emilia Romagna Grand Prix,Esteban Ocon,25.884297520661157
+2022,French Grand Prix,Carlos Sainz,323.80748663101605
+2022,French Grand Prix,George Russell,126.54545454545455
+2022,French Grand Prix,Valtteri Bottas,81.88235294117648
+2022,French Grand Prix,Pierre Gasly,72.57754010695189
+2022,French Grand Prix,Max Verstappen,72.57754010695187
+2022,French Grand Prix,Sergio Perez,66.99465240641712
+2022,French Grand Prix,Sebastian Vettel,63.27272727272728
+2022,French Grand Prix,Nicholas Latifi,63.27272727272727
+2022,French Grand Prix,Fernando Alonso,59.55080213903744
+2022,French Grand Prix,Mick Schumacher,59.55080213903744
+2022,French Grand Prix,Esteban Ocon,48.38502673796792
+2022,French Grand Prix,Kevin Magnussen,46.524064171122994
+2022,French Grand Prix,Lewis Hamilton,35.35828877005348
+2022,French Grand Prix,Zhou Guanyu,35.35828877005348
+2022,French Grand Prix,Lando Norris,27.9144385026738
+2022,French Grand Prix,Daniel Ricciardo,26.053475935828878
+2022,French Grand Prix,Alexander Albon,14.88770053475936
+2022,French Grand Prix,Yuki Tsunoda,11.165775401069519
+2022,Hungarian Grand Prix,Lewis Hamilton,123.38181818181818
+2022,Hungarian Grand Prix,Max Verstappen,105.03272727272727
+2022,Hungarian Grand Prix,Sergio Perez,91.74545454545454
+2022,Hungarian Grand Prix,George Russell,91.11272727272727
+2022,Hungarian Grand Prix,Carlos Sainz,81.62181818181818
+2022,Hungarian Grand Prix,Zhou Guanyu,80.9890909090909
+2022,Hungarian Grand Prix,Lance Stroll,76.56
+2022,Hungarian Grand Prix,Sebastian Vettel,75.29454545454546
+2022,Hungarian Grand Prix,Charles Leclerc,60.74181818181818
+2022,Hungarian Grand Prix,Esteban Ocon,58.210909090909084
+2022,Hungarian Grand Prix,Valtteri Bottas,57.57818181818182
+2022,Hungarian Grand Prix,Fernando Alonso,54.41454545454545
+2022,Hungarian Grand Prix,Daniel Ricciardo,51.25090909090909
+2022,Hungarian Grand Prix,Pierre Gasly,50.61818181818182
+2022,Hungarian Grand Prix,Lando Norris,45.556363636363635
+2022,Hungarian Grand Prix,Mick Schumacher,43.025454545454544
+2022,Hungarian Grand Prix,Nicholas Latifi,32.269090909090906
+2022,Hungarian Grand Prix,Yuki Tsunoda,27.207272727272724
+2022,Hungarian Grand Prix,Alexander Albon,24.043636363636363
+2022,Hungarian Grand Prix,Kevin Magnussen,22.145454545454545
+2022,Italian Grand Prix,Lewis Hamilton,155.1798274717983
+2022,Italian Grand Prix,Carlos Sainz,154.2561380225614
+2022,Italian Grand Prix,Sergio Perez,105.30059721300599
+2022,Italian Grand Prix,Valtteri Bottas,91.44525547445257
+2022,Italian Grand Prix,Mick Schumacher,82.20836098208362
+2022,Italian Grand Prix,Lando Norris,71.12408759124088
+2022,Italian Grand Prix,Esteban Ocon,60.963503649635044
+2022,Italian Grand Prix,Pierre Gasly,60.03981420039815
+2022,Italian Grand Prix,Daniel Ricciardo,58.192435301924355
+2022,Italian Grand Prix,Max Verstappen,54.49767750497678
+2022,Italian Grand Prix,Yuki Tsunoda,54.49767750497678
+2022,Italian Grand Prix,Nyck de Vries,48.955540809555416
+2022,Italian Grand Prix,Zhou Guanyu,48.03185136031851
+2022,Italian Grand Prix,Kevin Magnussen,39.71864631718647
+2022,Italian Grand Prix,Nicholas Latifi,38.79495686794957
+2022,Italian Grand Prix,Charles Leclerc,36.023888520238884
+2022,Italian Grand Prix,George Russell,34.1765096217651
+2022,Italian Grand Prix,Fernando Alonso,26.786994027869945
+2022,Italian Grand Prix,Lance Stroll,19.397478433974786
+2022,Japanese Grand Prix,Fernando Alonso,115.18881118881119
+2022,Japanese Grand Prix,George Russell,107.07692307692307
+2022,Japanese Grand Prix,Nicholas Latifi,103.83216783216783
+2022,Japanese Grand Prix,Sebastian Vettel,95.72027972027972
+2022,Japanese Grand Prix,Lance Stroll,87.6083916083916
+2022,Japanese Grand Prix,Zhou Guanyu,81.11888111888112
+2022,Japanese Grand Prix,Mick Schumacher,77.87412587412587
+2022,Japanese Grand Prix,Kevin Magnussen,73.006993006993
+2022,Japanese Grand Prix,Yuki Tsunoda,71.38461538461539
+2022,Japanese Grand Prix,Lando Norris,68.13986013986013
+2022,Japanese Grand Prix,Sergio Perez,56.78321678321678
+2022,Japanese Grand Prix,Daniel Ricciardo,55.16083916083916
+2022,Japanese Grand Prix,Esteban Ocon,53.53846153846153
+2022,Japanese Grand Prix,Lewis Hamilton,50.29370629370629
+2022,Japanese Grand Prix,Valtteri Bottas,50.29370629370629
+2022,Japanese Grand Prix,Pierre Gasly,38.93706293706293
+2022,Japanese Grand Prix,Max Verstappen,32.44755244755245
+2022,Japanese Grand Prix,Charles Leclerc,30.825174825174823
+2022,Mexico City Grand Prix,Daniel Ricciardo,161.37447873227688
+2022,Mexico City Grand Prix,Carlos Sainz,87.07256046705588
+2022,Mexico City Grand Prix,Esteban Ocon,87.07256046705588
+2022,Mexico City Grand Prix,Lando Norris,83.58965804837365
+2022,Mexico City Grand Prix,Charles Leclerc,81.26772310258549
+2022,Mexico City Grand Prix,Pierre Gasly,81.26772310258549
+2022,Mexico City Grand Prix,Alexander Albon,75.46288573811509
+2022,Mexico City Grand Prix,Sebastian Vettel,74.30191826522102
+2022,Mexico City Grand Prix,Zhou Guanyu,73.14095079232695
+2022,Mexico City Grand Prix,George Russell,66.17514595496247
+2022,Mexico City Grand Prix,Sergio Perez,59.209341117598
+2022,Mexico City Grand Prix,Fernando Alonso,52.24353628023353
+2022,Mexico City Grand Prix,Valtteri Bottas,47.59966638865721
+2022,Mexico City Grand Prix,Yuki Tsunoda,46.43869891576314
+2022,Mexico City Grand Prix,Lewis Hamilton,45.27773144286906
+2022,Mexico City Grand Prix,Max Verstappen,45.27773144286906
+2022,Mexico City Grand Prix,Lance Stroll,30.18515429524604
+2022,Mexico City Grand Prix,Kevin Magnussen,18.575479566305255
+2022,Mexico City Grand Prix,Mick Schumacher,18.575479566305255
+2022,Mexico City Grand Prix,Nicholas Latifi,11.609674728940785
+2022,Miami Grand Prix,George Russell,156.1407624633431
+2022,Miami Grand Prix,Kevin Magnussen,107.15542521994135
+2022,Miami Grand Prix,Daniel Ricciardo,89.80645161290322
+2022,Miami Grand Prix,Alexander Albon,87.76539589442815
+2022,Miami Grand Prix,Esteban Ocon,85.72434017595307
+2022,Miami Grand Prix,Lance Stroll,83.68328445747801
+2022,Miami Grand Prix,Sebastian Vettel,83.68328445747801
+2022,Miami Grand Prix,Mick Schumacher,74.49853372434018
+2022,Miami Grand Prix,Lewis Hamilton,61.2316715542522
+2022,Miami Grand Prix,Fernando Alonso,56.12903225806451
+2022,Miami Grand Prix,Lando Norris,40.821114369501466
+2022,Miami Grand Prix,Max Verstappen,40.821114369501466
+2022,Miami Grand Prix,Nicholas Latifi,40.821114369501466
+2022,Miami Grand Prix,Charles Leclerc,37.759530791788855
+2022,Miami Grand Prix,Yuki Tsunoda,34.697947214076244
+2022,Miami Grand Prix,Pierre Gasly,23.472140762463344
+2022,Miami Grand Prix,Carlos Sainz,19.390029325513197
+2022,Miami Grand Prix,Sergio Perez,18.369501466275658
+2022,Miami Grand Prix,Valtteri Bottas,16.328445747800586
+2022,Monaco Grand Prix,Pierre Gasly,122.7107438016529
+2022,Monaco Grand Prix,Lance Stroll,99.70247933884298
+2022,Monaco Grand Prix,Sebastian Vettel,99.70247933884298
+2022,Monaco Grand Prix,Valtteri Bottas,78.61157024793388
+2022,Monaco Grand Prix,Sergio Perez,74.77685950413223
+2022,Monaco Grand Prix,Esteban Ocon,70.94214876033058
+2022,Monaco Grand Prix,Max Verstappen,70.94214876033058
+2022,Monaco Grand Prix,Lando Norris,63.27272727272728
+2022,Monaco Grand Prix,George Russell,61.35537190082645
+2022,Monaco Grand Prix,Zhou Guanyu,57.52066115702479
+2022,Monaco Grand Prix,Nicholas Latifi,47.93388429752066
+2022,Monaco Grand Prix,Daniel Ricciardo,46.01652892561984
+2022,Monaco Grand Prix,Alexander Albon,42.18181818181819
+2022,Monaco Grand Prix,Carlos Sainz,38.34710743801653
+2022,Monaco Grand Prix,Fernando Alonso,28.7603305785124
+2022,Monaco Grand Prix,Yuki Tsunoda,28.760330578512395
+2022,Monaco Grand Prix,Lewis Hamilton,24.925619834710744
+2022,Monaco Grand Prix,Mick Schumacher,24.925619834710744
+2022,Monaco Grand Prix,Kevin Magnussen,19.173553719008265
+2022,Sao Paulo Grand Prix,Fernando Alonso,128.43419267299865
+2022,Sao Paulo Grand Prix,Valtteri Bottas,121.50881953867028
+2022,Sao Paulo Grand Prix,Charles Leclerc,109.54681139755768
+2022,Sao Paulo Grand Prix,Carlos Sainz,104.51017639077341
+2022,Sao Paulo Grand Prix,Lewis Hamilton,101.36227951153325
+2022,Sao Paulo Grand Prix,Sebastian Vettel,101.36227951153325
+2022,Sao Paulo Grand Prix,Max Verstappen,100.7327001356852
+2022,Sao Paulo Grand Prix,Lance Stroll,98.84396200814112
+2022,Sao Paulo Grand Prix,Esteban Ocon,95.69606512890095
+2022,Sao Paulo Grand Prix,Pierre Gasly,81.21573948439621
+2022,Sao Paulo Grand Prix,Lando Norris,73.03120759837178
+2022,Sao Paulo Grand Prix,Mick Schumacher,66.10583446404343
+2022,Sao Paulo Grand Prix,Zhou Guanyu,57.291723202170964
+2022,Sao Paulo Grand Prix,Yuki Tsunoda,51.62550881953867
+2022,Sao Paulo Grand Prix,Sergio Perez,46.588873812754414
+2022,Sao Paulo Grand Prix,Alexander Albon,46.58887381275441
+2022,Sao Paulo Grand Prix,Nicholas Latifi,18.257801899592945
+2022,Sao Paulo Grand Prix,George Russell,12.59158751696065
+2022,Saudi Arabian Grand Prix,Lewis Hamilton,169.2750885478158
+2022,Saudi Arabian Grand Prix,Esteban Ocon,131.4757969303424
+2022,Saudi Arabian Grand Prix,Kevin Magnussen,131.4757969303424
+2022,Saudi Arabian Grand Prix,Lando Norris,103.53719008264463
+2022,Saudi Arabian Grand Prix,Pierre Gasly,101.89374262101535
+2022,Saudi Arabian Grand Prix,Nico Hulkenberg,93.67650531286895
+2022,Saudi Arabian Grand Prix,Lance Stroll,87.10271546635182
+2022,Saudi Arabian Grand Prix,Zhou Guanyu,83.81582054309327
+2022,Saudi Arabian Grand Prix,Alexander Albon,67.38134592680046
+2022,Saudi Arabian Grand Prix,Charles Leclerc,65.73789846517118
+2022,Saudi Arabian Grand Prix,Max Verstappen,65.73789846517118
+2022,Saudi Arabian Grand Prix,Daniel Ricciardo,60.80755608028335
+2022,Saudi Arabian Grand Prix,Fernando Alonso,47.65997638724912
+2022,Saudi Arabian Grand Prix,Valtteri Bottas,42.72963400236128
+2022,Saudi Arabian Grand Prix,Carlos Sainz,29.582054309327035
+2022,Saudi Arabian Grand Prix,Sergio Perez,29.582054309327035
+2022,Saudi Arabian Grand Prix,George Russell,26.295159386068477
+2022,Saudi Arabian Grand Prix,Nicholas Latifi,24.651711924439198
+2022,Singapore Grand Prix,Max Verstappen,311.67676767676767
+2022,Singapore Grand Prix,Daniel Ricciardo,147.63636363636363
+2022,Singapore Grand Prix,Lance Stroll,126.54545454545453
+2022,Singapore Grand Prix,Sebastian Vettel,96.08080808080808
+2022,Singapore Grand Prix,Valtteri Bottas,96.08080808080808
+2022,Singapore Grand Prix,George Russell,89.05050505050505
+2022,Singapore Grand Prix,Pierre Gasly,86.70707070707071
+2022,Singapore Grand Prix,Mick Schumacher,86.7070707070707
+2022,Singapore Grand Prix,Kevin Magnussen,82.02020202020202
+2022,Singapore Grand Prix,Charles Leclerc,44.525252525252526
+2022,Singapore Grand Prix,Carlos Sainz,42.18181818181818
+2022,Singapore Grand Prix,Lando Norris,39.83838383838384
+2022,Singapore Grand Prix,Esteban Ocon,35.151515151515156
+2022,Singapore Grand Prix,Lewis Hamilton,30.464646464646464
+2022,Singapore Grand Prix,Alexander Albon,28.12121212121212
+2022,Spanish Grand Prix,Lewis Hamilton,136.57649667405764
+2022,Spanish Grand Prix,Carlos Sainz,135.03325942350332
+2022,Spanish Grand Prix,Sebastian Vettel,123.45898004434589
+2022,Spanish Grand Prix,Max Verstappen,114.97117516629712
+2022,Spanish Grand Prix,Esteban Ocon,101.85365853658537
+2022,Spanish Grand Prix,Lando Norris,101.0820399113082
+2022,Spanish Grand Prix,Fernando Alonso,94.9090909090909
+2022,Spanish Grand Prix,Sergio Perez,87.96452328159646
+2022,Spanish Grand Prix,George Russell,72.53215077605321
+2022,Spanish Grand Prix,Mick Schumacher,72.53215077605321
+2022,Spanish Grand Prix,Yuki Tsunoda,67.90243902439025
+2022,Spanish Grand Prix,Valtteri Bottas,64.8159645232816
+2022,Spanish Grand Prix,Daniel Ricciardo,60.186252771618626
+2022,Spanish Grand Prix,Lance Stroll,47.068736141906875
+2022,Spanish Grand Prix,Pierre Gasly,33.17960088691796
+2022,Spanish Grand Prix,Nicholas Latifi,26.235033259423503
+2022,Spanish Grand Prix,Zhou Guanyu,26.235033259423503
+2022,Spanish Grand Prix,Alexander Albon,14.660753880266075
+2022,Spanish Grand Prix,Kevin Magnussen,14.660753880266075
+2022,United States Grand Prix,Sebastian Vettel,124.4245810055866
+2022,United States Grand Prix,Lando Norris,112.40629761300153
+2022,United States Grand Prix,Esteban Ocon,110.28542407313358
+2022,United States Grand Prix,Fernando Alonso,107.45759268664297
+2022,United States Grand Prix,Lewis Hamilton,100.38801422041647
+2022,United States Grand Prix,Sergio Perez,98.97409852717117
+2022,United States Grand Prix,Charles Leclerc,95.4393092940579
+2022,United States Grand Prix,Pierre Gasly,83.42102590147283
+2022,United States Grand Prix,Kevin Magnussen,82.00711020822753
+2022,United States Grand Prix,Max Verstappen,79.88623666835959
+2022,United States Grand Prix,George Russell,67.16099542915185
+2022,United States Grand Prix,Mick Schumacher,67.16099542915185
+2022,United States Grand Prix,Zhou Guanyu,65.04012188928391
+2022,United States Grand Prix,Yuki Tsunoda,64.33316404266125
+2022,United States Grand Prix,Alexander Albon,58.67750126968005
+2022,United States Grand Prix,Daniel Ricciardo,36.054850177755206
+2022,United States Grand Prix,Nicholas Latifi,27.571356018283396
+2022,United States Grand Prix,Lance Stroll,21.915693245302187
+2022,United States Grand Prix,Valtteri Bottas,13.432199085830373
+2023,Abu Dhabi Grand Prix,Sergio Perez,297.1715459681561
+2023,Abu Dhabi Grand Prix,Lance Stroll,265.84322033898303
+2023,Abu Dhabi Grand Prix,Carlos Sainz,247.94131997945559
+2023,Abu Dhabi Grand Prix,George Russell,244.3609399075501
+2023,Abu Dhabi Grand Prix,Yuki Tsunoda,232.72470467385722
+2023,Abu Dhabi Grand Prix,Oscar Piastri,227.35413456599898
+2023,Abu Dhabi Grand Prix,Lando Norris,221.08846944016437
+2023,Abu Dhabi Grand Prix,Lewis Hamilton,219.29827940421163
+2023,Abu Dhabi Grand Prix,Fernando Alonso,212.1375192604006
+2023,Abu Dhabi Grand Prix,Pierre Gasly,159.32691319979455
+2023,Abu Dhabi Grand Prix,Daniel Ricciardo,151.2710580380072
+2023,Abu Dhabi Grand Prix,Esteban Ocon,148.58577298407806
+2023,Abu Dhabi Grand Prix,Valtteri Bottas,145.00539291217257
+2023,Abu Dhabi Grand Prix,Charles Leclerc,128.89368258859784
+2023,Abu Dhabi Grand Prix,Alexander Albon,125.31330251669235
+2023,Abu Dhabi Grand Prix,Max Verstappen,93.98497688751925
+2023,Abu Dhabi Grand Prix,Logan Sargeant,85.03402670775553
+2023,Abu Dhabi Grand Prix,Nico Hulkenberg,66.23703133025167
+2023,Abu Dhabi Grand Prix,Zhou Guanyu,65.3419363122753
+2023,Abu Dhabi Grand Prix,Kevin Magnussen,21.482280431432976
+2023,Australian Grand Prix,Sergio Perez,349.2701446280992
+2023,Australian Grand Prix,Carlos Sainz,304.8612258953168
+2023,Australian Grand Prix,Lance Stroll,280.8564049586777
+2023,Australian Grand Prix,Yuki Tsunoda,261.6525482093664
+2023,Australian Grand Prix,Oscar Piastri,244.84917355371903
+2023,Australian Grand Prix,Lando Norris,242.4486914600551
+2023,Australian Grand Prix,Zhou Guanyu,218.443870523416
+2023,Australian Grand Prix,Fernando Alonso,213.64290633608817
+2023,Australian Grand Prix,Esteban Ocon,193.2388085399449
+2023,Australian Grand Prix,Nico Hulkenberg,184.83712121212122
+2023,Australian Grand Prix,Pierre Gasly,162.03254132231405
+2023,Australian Grand Prix,Valtteri Bottas,130.8262741046832
+2023,Australian Grand Prix,George Russell,128.4257920110193
+2023,Australian Grand Prix,Nyck de Vries,122.42458677685951
+2023,Australian Grand Prix,Kevin Magnussen,87.61759641873279
+2023,Australian Grand Prix,Logan Sargeant,73.21470385674931
+2023,Australian Grand Prix,Lewis Hamilton,68.41373966942149
+2023,Australian Grand Prix,Alexander Albon,50.41012396694215
+2023,Australian Grand Prix,Max Verstappen,46.809400826446286
+2023,Australian Grand Prix,Charles Leclerc,18.00361570247934
+2023,Austrian Grand Prix,Sergio Perez,306.42577540106953
+2023,Austrian Grand Prix,Kevin Magnussen,220.68620320855615
+2023,Austrian Grand Prix,George Russell,204.28385026737968
+2023,Austrian Grand Prix,Lewis Hamilton,187.13593582887702
+2023,Austrian Grand Prix,Pierre Gasly,172.22470588235296
+2023,Austrian Grand Prix,Lando Norris,172.22470588235294
+2023,Austrian Grand Prix,Alexander Albon,167.0057754010695
+2023,Austrian Grand Prix,Yuki Tsunoda,166.2602139037433
+2023,Austrian Grand Prix,Lance Stroll,161.0412834224599
+2023,Austrian Grand Prix,Carlos Sainz,155.8223529411765
+2023,Austrian Grand Prix,Valtteri Bottas,139.42000000000002
+2023,Austrian Grand Prix,Esteban Ocon,135.69219251336898
+2023,Austrian Grand Prix,Fernando Alonso,125.99989304812834
+2023,Austrian Grand Prix,Logan Sargeant,117.05315508021391
+2023,Austrian Grand Prix,Oscar Piastri,115.5620320855615
+2023,Austrian Grand Prix,Nico Hulkenberg,108.85197860962568
+2023,Austrian Grand Prix,Charles Leclerc,102.88748663101605
+2023,Austrian Grand Prix,Zhou Guanyu,81.26620320855615
+2023,Austrian Grand Prix,Nyck de Vries,73.06502673796791
+2023,Austrian Grand Prix,Max Verstappen,43.98812834224599
+2023,Azerbaijan Grand Prix,Lewis Hamilton,297.7931397306397
+2023,Azerbaijan Grand Prix,Lando Norris,243.51557239057237
+2023,Azerbaijan Grand Prix,Kevin Magnussen,205.37457912457913
+2023,Azerbaijan Grand Prix,Max Verstappen,205.37457912457913
+2023,Azerbaijan Grand Prix,Oscar Piastri,193.63888888888889
+2023,Azerbaijan Grand Prix,Zhou Guanyu,184.83712121212122
+2023,Azerbaijan Grand Prix,Nico Hulkenberg,158.4318181818182
+2023,Azerbaijan Grand Prix,Nyck de Vries,152.56397306397307
+2023,Azerbaijan Grand Prix,Esteban Ocon,146.69612794612794
+2023,Azerbaijan Grand Prix,Lance Stroll,143.76220538720537
+2023,Azerbaijan Grand Prix,Pierre Gasly,129.09259259259258
+2023,Azerbaijan Grand Prix,George Russell,126.15867003367003
+2023,Azerbaijan Grand Prix,Yuki Tsunoda,108.55513468013467
+2023,Azerbaijan Grand Prix,Fernando Alonso,95.35248316498317
+2023,Azerbaijan Grand Prix,Sergio Perez,86.55071548821549
+2023,Azerbaijan Grand Prix,Alexander Albon,73.34806397306397
+2023,Azerbaijan Grand Prix,Valtteri Bottas,64.54629629629629
+2023,Azerbaijan Grand Prix,Logan Sargeant,58.678451178451176
+2023,Azerbaijan Grand Prix,Carlos Sainz,51.34364478114478
+2023,Azerbaijan Grand Prix,Charles Leclerc,27.872264309764308
+2023,Bahrain Grand Prix,Fernando Alonso,285.4989616982003
+2023,Bahrain Grand Prix,Lance Stroll,221.96538994000923
+2023,Bahrain Grand Prix,Valtteri Bottas,210.70627595754502
+2023,Bahrain Grand Prix,George Russell,209.90205353022614
+2023,Bahrain Grand Prix,Lewis Hamilton,194.62182741116752
+2023,Bahrain Grand Prix,Charles Leclerc,190.60071527457316
+2023,Bahrain Grand Prix,Zhou Guanyu,182.55849100138443
+2023,Bahrain Grand Prix,Alexander Albon,176.1247115828334
+2023,Bahrain Grand Prix,Sergio Perez,169.69093216428243
+2023,Bahrain Grand Prix,Carlos Sainz,165.66982002768805
+2023,Bahrain Grand Prix,Yuki Tsunoda,141.54314720812184
+2023,Bahrain Grand Prix,Nico Hulkenberg,131.89247808029535
+2023,Bahrain Grand Prix,Logan Sargeant,126.26292108906323
+2023,Bahrain Grand Prix,Kevin Magnussen,123.04603137978773
+2023,Bahrain Grand Prix,Pierre Gasly,123.04603137978773
+2023,Bahrain Grand Prix,Esteban Ocon,122.24180895246886
+2023,Bahrain Grand Prix,Max Verstappen,122.24180895246886
+2023,Bahrain Grand Prix,Nyck de Vries,122.24180895246886
+2023,Bahrain Grand Prix,Oscar Piastri,84.44335486848178
+2023,Bahrain Grand Prix,Lando Norris,53.88290263036456
+2023,Belgian Grand Prix,Lance Stroll,228.77554545454544
+2023,Belgian Grand Prix,Esteban Ocon,227.5080909090909
+2023,Belgian Grand Prix,George Russell,216.73472727272727
+2023,Belgian Grand Prix,Alexander Albon,207.22881818181818
+2023,Belgian Grand Prix,Pierre Gasly,200.25781818181818
+2023,Belgian Grand Prix,Nico Hulkenberg,171.7400909090909
+2023,Belgian Grand Prix,Zhou Guanyu,166.03654545454543
+2023,Belgian Grand Prix,Yuki Tsunoda,162.2341818181818
+2023,Belgian Grand Prix,Lando Norris,153.362
+2023,Belgian Grand Prix,Fernando Alonso,152.72827272727272
+2023,Belgian Grand Prix,Logan Sargeant,150.19336363636364
+2023,Belgian Grand Prix,Kevin Magnussen,141.3211818181818
+2023,Belgian Grand Prix,Daniel Ricciardo,117.87327272727272
+2023,Belgian Grand Prix,Sergio Perez,109.0010909090909
+2023,Belgian Grand Prix,Valtteri Bottas,105.83245454545454
+2023,Belgian Grand Prix,Lewis Hamilton,105.19872727272727
+2023,Belgian Grand Prix,Oscar Piastri,98.22772727272726
+2023,Belgian Grand Prix,Carlos Sainz,93.15790909090909
+2023,Belgian Grand Prix,Max Verstappen,82.38454545454545
+2023,Belgian Grand Prix,Charles Leclerc,32.95381818181818
+2023,British Grand Prix,Sergio Perez,360.5689655172414
+2023,British Grand Prix,George Russell,229.45297805642636
+2023,British Grand Prix,Pierre Gasly,227.2677115987461
+2023,British Grand Prix,Lance Stroll,209.7855799373041
+2023,British Grand Prix,Lewis Hamilton,203.22978056426334
+2023,British Grand Prix,Fernando Alonso,194.48871473354234
+2023,British Grand Prix,Carlos Sainz,190.11818181818182
+2023,British Grand Prix,Charles Leclerc,185.74764890282134
+2023,British Grand Prix,Alexander Albon,170.45078369905957
+2023,British Grand Prix,Yuki Tsunoda,168.2655172413793
+2023,British Grand Prix,Zhou Guanyu,133.30125391849532
+2023,British Grand Prix,Logan Sargeant,131.11598746081506
+2023,British Grand Prix,Valtteri Bottas,120.18965517241381
+2023,British Grand Prix,Nyck de Vries,100.52225705329154
+2023,British Grand Prix,Kevin Magnussen,80.85485893416929
+2023,British Grand Prix,Oscar Piastri,72.11379310344827
+2023,British Grand Prix,Nico Hulkenberg,59.002194357366776
+2023,British Grand Prix,Lando Norris,43.70532915360502
+2023,British Grand Prix,Max Verstappen,43.70532915360502
+2023,British Grand Prix,Esteban Ocon,41.520062695924764
+2023,Canadian Grand Prix,Lando Norris,329.1180311401306
+2023,Canadian Grand Prix,Kevin Magnussen,250.33977900552486
+2023,Canadian Grand Prix,George Russell,243.33726770467104
+2023,Canadian Grand Prix,Alexander Albon,211.82596685082873
+2023,Canadian Grand Prix,Sergio Perez,208.32471120040182
+2023,Canadian Grand Prix,Oscar Piastri,199.5715720743345
+2023,Canadian Grand Prix,Esteban Ocon,196.07031642390757
+2023,Canadian Grand Prix,Valtteri Bottas,196.07031642390757
+2023,Canadian Grand Prix,Lance Stroll,192.56906077348066
+2023,Canadian Grand Prix,Charles Leclerc,152.30462079357108
+2023,Canadian Grand Prix,Pierre Gasly,134.79834254143645
+2023,Canadian Grand Prix,Yuki Tsunoda,120.79331993972878
+2023,Canadian Grand Prix,Carlos Sainz,91.03264691109995
+2023,Canadian Grand Prix,Zhou Guanyu,82.27950778503265
+2023,Canadian Grand Prix,Nico Hulkenberg,75.27699648417881
+2023,Canadian Grand Prix,Nyck de Vries,71.77574083375188
+2023,Canadian Grand Prix,Fernando Alonso,64.77322953289804
+2023,Canadian Grand Prix,Lewis Hamilton,33.26192867905575
+2023,Canadian Grand Prix,Logan Sargeant,5.251883475640382
+2023,Dutch Grand Prix,Oscar Piastri,281.3160717425708
+2023,Dutch Grand Prix,Esteban Ocon,213.89827677158434
+2023,Dutch Grand Prix,Pierre Gasly,208.99516441005804
+2023,Dutch Grand Prix,Carlos Sainz,207.15649727448567
+2023,Dutch Grand Prix,Lewis Hamilton,204.70494109372254
+2023,Dutch Grand Prix,Alexander Albon,200.41471777738704
+2023,Dutch Grand Prix,Fernando Alonso,191.22138209952524
+2023,Dutch Grand Prix,Sergio Perez,188.1569368735713
+2023,Dutch Grand Prix,Lando Norris,169.15737647265695
+2023,Dutch Grand Prix,Yuki Tsunoda,161.18981888517672
+2023,Dutch Grand Prix,Charles Leclerc,156.89959556884122
+2023,Dutch Grand Prix,George Russell,155.67381747845965
+2023,Dutch Grand Prix,Nico Hulkenberg,152.60937225250572
+2023,Dutch Grand Prix,Valtteri Bottas,146.48048180059786
+2023,Dutch Grand Prix,Zhou Guanyu,143.41603657464393
+2023,Dutch Grand Prix,Kevin Magnussen,113.38447336029542
+2023,Dutch Grand Prix,Lance Stroll,109.09425004395992
+2023,Dutch Grand Prix,Max Verstappen,106.64269386319677
+2023,Dutch Grand Prix,Liam Lawson,76.61113064884825
+2023,Dutch Grand Prix,Logan Sargeant,50.86979075083524
+2023,Hungarian Grand Prix,George Russell,346.15355233002293
+2023,Hungarian Grand Prix,Sergio Perez,296.8932391138274
+2023,Hungarian Grand Prix,Daniel Ricciardo,274.26012223071046
+2023,Hungarian Grand Prix,Carlos Sainz,238.31340718105426
+2023,Hungarian Grand Prix,Lance Stroll,205.0294117647059
+2023,Hungarian Grand Prix,Fernando Alonso,193.0471734148205
+2023,Hungarian Grand Prix,Charles Leclerc,190.38445378151263
+2023,Hungarian Grand Prix,Alexander Albon,167.75133689839575
+2023,Hungarian Grand Prix,Oscar Piastri,162.42589763178
+2023,Hungarian Grand Prix,Yuki Tsunoda,159.76317799847214
+2023,Hungarian Grand Prix,Lewis Hamilton,154.4377387318564
+2023,Hungarian Grand Prix,Valtteri Bottas,133.13598166539344
+2023,Hungarian Grand Prix,Kevin Magnussen,126.47918258212377
+2023,Hungarian Grand Prix,Lando Norris,121.15374331550802
+2023,Hungarian Grand Prix,Zhou Guanyu,117.15966386554624
+2023,Hungarian Grand Prix,Nico Hulkenberg,107.84014514896869
+2023,Hungarian Grand Prix,Logan Sargeant,90.53246753246754
+2023,Hungarian Grand Prix,Max Verstappen,26.62719633307869
+2023,Hungarian Grand Prix,Esteban Ocon,15.976317799847214
+2023,Hungarian Grand Prix,Pierre Gasly,15.976317799847212
+2023,Italian Grand Prix,Valtteri Bottas,336.06749311294766
+2023,Italian Grand Prix,Carlos Sainz,331.95238095238096
+2023,Italian Grand Prix,Lewis Hamilton,322.3504525777253
+2023,Italian Grand Prix,Oscar Piastri,311.3768201495474
+2023,Italian Grand Prix,Sergio Perez,293.5446674537584
+2023,Italian Grand Prix,Charles Leclerc,283.9427390791027
+2023,Italian Grand Prix,Lando Norris,244.1633215269579
+2023,Italian Grand Prix,Max Verstappen,178.3215269578906
+2023,Italian Grand Prix,Alexander Albon,175.57811885084612
+2023,Italian Grand Prix,Fernando Alonso,172.83471074380165
+2023,Italian Grand Prix,Esteban Ocon,170.09130263675718
+2023,Italian Grand Prix,Liam Lawson,145.40062967335695
+2023,Italian Grand Prix,George Russell,134.42699724517905
+2023,Italian Grand Prix,Lance Stroll,124.82506887052342
+2023,Italian Grand Prix,Logan Sargeant,112.4797323888233
+2023,Italian Grand Prix,Nico Hulkenberg,100.13439590712318
+2023,Italian Grand Prix,Zhou Guanyu,86.41735537190083
+2023,Italian Grand Prix,Pierre Gasly,48.00964187327824
+2023,Italian Grand Prix,Kevin Magnussen,27.43408107044471
+2023,Japanese Grand Prix,George Russell,326.4293310463122
+2023,Japanese Grand Prix,Carlos Sainz,280.99228130360206
+2023,Japanese Grand Prix,Fernando Alonso,278.6008576329331
+2023,Japanese Grand Prix,Pierre Gasly,275.0137221269297
+2023,Japanese Grand Prix,Esteban Ocon,260.66518010291594
+2023,Japanese Grand Prix,Lando Norris,216.42384219554032
+2023,Japanese Grand Prix,Charles Leclerc,193.70531732418527
+2023,Japanese Grand Prix,Lewis Hamilton,191.3138936535163
+2023,Japanese Grand Prix,Oscar Piastri,175.7696397941681
+2023,Japanese Grand Prix,Nico Hulkenberg,166.2039451114923
+2023,Japanese Grand Prix,Yuki Tsunoda,154.2468267581475
+2023,Japanese Grand Prix,Liam Lawson,142.28970840480275
+2023,Japanese Grand Prix,Lance Stroll,133.91972555746142
+2023,Japanese Grand Prix,Kevin Magnussen,132.72401372212693
+2023,Japanese Grand Prix,Zhou Guanyu,132.72401372212693
+2023,Japanese Grand Prix,Max Verstappen,112.39691252144083
+2023,Japanese Grand Prix,Alexander Albon,93.26552315608919
+2023,Japanese Grand Prix,Sergio Perez,81.30840480274442
+2023,Japanese Grand Prix,Logan Sargeant,32.28421955403088
+2023,Japanese Grand Prix,Valtteri Bottas,23.91423670668954
+2023,Las Vegas Grand Prix,Esteban Ocon,305.7130098640362
+2023,Las Vegas Grand Prix,Oscar Piastri,295.4916022394028
+2023,Las Vegas Grand Prix,Lance Stroll,274.1195681151693
+2023,Las Vegas Grand Prix,Sergio Perez,258.32284724073577
+2023,Las Vegas Grand Prix,Lewis Hamilton,230.44628099173553
+2023,Las Vegas Grand Prix,Carlos Sainz,220.2248733671021
+2023,Las Vegas Grand Prix,Max Verstappen,207.21580911756865
+2023,Las Vegas Grand Prix,George Russell,194.20674486803517
+2023,Las Vegas Grand Prix,Fernando Alonso,176.55158624366834
+2023,Las Vegas Grand Prix,Zhou Guanyu,174.693148493735
+2023,Las Vegas Grand Prix,Pierre Gasly,159.8256464942682
+2023,Las Vegas Grand Prix,Daniel Ricciardo,111.50626499600106
+2023,Las Vegas Grand Prix,Alexander Albon,108.71860837110103
+2023,Las Vegas Grand Prix,Yuki Tsunoda,103.14329512130098
+2023,Las Vegas Grand Prix,Kevin Magnussen,92.92188749666755
+2023,Las Vegas Grand Prix,Charles Leclerc,91.0634497467342
+2023,Las Vegas Grand Prix,Nico Hulkenberg,83.6296987470008
+2023,Las Vegas Grand Prix,Logan Sargeant,73.40829112236736
+2023,Las Vegas Grand Prix,Valtteri Bottas,50.17781924820048
+2023,Las Vegas Grand Prix,Lando Norris,32.522660623833644
+2023,Mexico City Grand Prix,Lando Norris,279.91487311275296
+2023,Mexico City Grand Prix,Pierre Gasly,237.36781239961454
+2023,Mexico City Grand Prix,Yuki Tsunoda,227.29087696755542
+2023,Mexico City Grand Prix,Lewis Hamilton,207.13700610343722
+2023,Mexico City Grand Prix,Max Verstappen,204.89768711853517
+2023,Mexico City Grand Prix,Oscar Piastri,190.34211371667203
+2023,Mexico City Grand Prix,Nico Hulkenberg,186.98313523931898
+2023,Mexico City Grand Prix,Valtteri Bottas,185.86347574686798
+2023,Mexico City Grand Prix,Alexander Albon,164.58994539029877
+2023,Mexico City Grand Prix,George Russell,162.35062640539672
+2023,Mexico City Grand Prix,Logan Sargeant,157.87198843559267
+2023,Mexico City Grand Prix,Esteban Ocon,135.47879858657245
+2023,Mexico City Grand Prix,Daniel Ricciardo,132.1198201092194
+2023,Mexico City Grand Prix,Sergio Perez,122.0428846771603
+2023,Mexico City Grand Prix,Zhou Guanyu,122.0428846771603
+2023,Mexico City Grand Prix,Lance Stroll,105.24799229039512
+2023,Mexico City Grand Prix,Fernando Alonso,103.00867330549309
+2023,Mexico City Grand Prix,Charles Leclerc,66.0599100546097
+2023,Mexico City Grand Prix,Kevin Magnussen,62.70093157725667
+2023,Mexico City Grand Prix,Carlos Sainz,41.42740122068744
+2023,Miami Grand Prix,Lewis Hamilton,306.54714587737845
+2023,Miami Grand Prix,Max Verstappen,271.17632135306553
+2023,Miami Grand Prix,Esteban Ocon,254.9646934460888
+2023,Miami Grand Prix,Lance Stroll,250.5433403805497
+2023,Miami Grand Prix,Charles Leclerc,249.06955602537
+2023,Miami Grand Prix,Yuki Tsunoda,224.01522198731502
+2023,Miami Grand Prix,Nico Hulkenberg,209.277378435518
+2023,Miami Grand Prix,George Russell,206.32980972515855
+2023,Miami Grand Prix,Kevin Magnussen,194.53953488372093
+2023,Miami Grand Prix,Pierre Gasly,176.8541226215645
+2023,Miami Grand Prix,Alexander Albon,162.11627906976744
+2023,Miami Grand Prix,Valtteri Bottas,160.64249471458774
+2023,Miami Grand Prix,Zhou Guanyu,140.00951374207187
+2023,Miami Grand Prix,Carlos Sainz,120.85031712473574
+2023,Miami Grand Prix,Sergio Perez,113.48139534883722
+2023,Miami Grand Prix,Fernando Alonso,79.58435517970402
+2023,Miami Grand Prix,Oscar Piastri,75.16300211416491
+2023,Miami Grand Prix,Lando Norris,61.89894291754757
+2023,Miami Grand Prix,Nyck de Vries,33.89704016913319
+2023,Miami Grand Prix,Logan Sargeant,11.790274841437633
+2023,Monaco Grand Prix,Charles Leclerc,312.5230386052304
+2023,Monaco Grand Prix,Esteban Ocon,284.3091531755915
+2023,Monaco Grand Prix,Carlos Sainz,282.13885429638856
+2023,Monaco Grand Prix,George Russell,240.90317559153178
+2023,Monaco Grand Prix,Pierre Gasly,236.5625778331258
+2023,Monaco Grand Prix,Lewis Hamilton,197.49719800747198
+2023,Monaco Grand Prix,Valtteri Bottas,162.77241594022416
+2023,Monaco Grand Prix,Sergio Perez,141.06942714819428
+2023,Monaco Grand Prix,Zhou Guanyu,138.8991282689913
+2023,Monaco Grand Prix,Nico Hulkenberg,136.7288293897883
+2023,Monaco Grand Prix,Kevin Magnussen,112.85554171855543
+2023,Monaco Grand Prix,Lando Norris,95.4931506849315
+2023,Monaco Grand Prix,Oscar Piastri,95.4931506849315
+2023,Monaco Grand Prix,Alexander Albon,93.32285180572852
+2023,Monaco Grand Prix,Lance Stroll,84.64165628891656
+2023,Monaco Grand Prix,Logan Sargeant,60.76836861768369
+2023,Monaco Grand Prix,Nyck de Vries,58.5980697384807
+2023,Monaco Grand Prix,Yuki Tsunoda,49.91687422166875
+2023,Qatar Grand Prix,Oscar Piastri,245.0656332107199
+2023,Qatar Grand Prix,Lando Norris,243.60036784025223
+2023,Qatar Grand Prix,George Russell,231.51192853389384
+2023,Qatar Grand Prix,Valtteri Bottas,222.35401996847082
+2023,Qatar Grand Prix,Fernando Alonso,221.25507094062007
+2023,Qatar Grand Prix,Zhou Guanyu,213.92874408828166
+2023,Qatar Grand Prix,Alexander Albon,212.46347871781398
+2023,Qatar Grand Prix,Max Verstappen,208.80031529164478
+2023,Qatar Grand Prix,Charles Leclerc,203.67188649500787
+2023,Qatar Grand Prix,Lance Stroll,188.65291644771412
+2023,Qatar Grand Prix,Pierre Gasly,187.18765107724644
+2023,Qatar Grand Prix,Esteban Ocon,168.87183394640041
+2023,Qatar Grand Prix,Sergio Perez,167.77288491854966
+2023,Qatar Grand Prix,Kevin Magnussen,136.2696794534945
+2023,Qatar Grand Prix,Lewis Hamilton,130.77493431424068
+2023,Qatar Grand Prix,Yuki Tsunoda,126.37913820283762
+2023,Qatar Grand Prix,Nico Hulkenberg,119.05281135049921
+2023,Qatar Grand Prix,Logan Sargeant,105.86542301629007
+2023,Qatar Grand Prix,Liam Lawson,98.17277982133473
+2023,Qatar Grand Prix,Carlos Sainz,41.027430373095115
+2023,Sao Paulo Grand Prix,Yuki Tsunoda,326.67365606529694
+2023,Sao Paulo Grand Prix,Sergio Perez,319.8066422741345
+2023,Sao Paulo Grand Prix,Pierre Gasly,303.12960878131156
+2023,Sao Paulo Grand Prix,Esteban Ocon,255.06051224317477
+2023,Sao Paulo Grand Prix,Fernando Alonso,242.30748663101605
+2023,Sao Paulo Grand Prix,Carlos Sainz,229.5544610188573
+2023,Sao Paulo Grand Prix,George Russell,227.5924570785252
+2023,Sao Paulo Grand Prix,Lance Stroll,227.59245707852517
+2023,Sao Paulo Grand Prix,Lewis Hamilton,216.80143540669857
+2023,Sao Paulo Grand Prix,Nico Hulkenberg,205.02941176470588
+2023,Sao Paulo Grand Prix,Oscar Piastri,140.28328173374612
+2023,Sao Paulo Grand Prix,Logan Sargeant,138.32127779341403
+2023,Sao Paulo Grand Prix,Valtteri Bottas,137.34027582324796
+2023,Sao Paulo Grand Prix,Lando Norris,125.56825218125527
+2023,Sao Paulo Grand Prix,Daniel Ricciardo,96.13819307627357
+2023,Sao Paulo Grand Prix,Zhou Guanyu,92.21418519560935
+2023,Sao Paulo Grand Prix,Kevin Magnussen,48.06909653813678
+2023,Sao Paulo Grand Prix,Max Verstappen,39.24007880664227
+2023,Sao Paulo Grand Prix,Charles Leclerc,30.411061075147764
+2023,Sao Paulo Grand Prix,Alexander Albon,24.52504925415142
+2023,Saudi Arabian Grand Prix,Max Verstappen,318.74972943722946
+2023,Saudi Arabian Grand Prix,Yuki Tsunoda,294.2305194805195
+2023,Saudi Arabian Grand Prix,Charles Leclerc,252.73647186147187
+2023,Saudi Arabian Grand Prix,Logan Sargeant,205.58414502164504
+2023,Saudi Arabian Grand Prix,Kevin Magnussen,190.49540043290045
+2023,Saudi Arabian Grand Prix,Esteban Ocon,182.95102813852816
+2023,Saudi Arabian Grand Prix,Alexander Albon,173.52056277056278
+2023,Saudi Arabian Grand Prix,Nyck de Vries,173.52056277056278
+2023,Saudi Arabian Grand Prix,Pierre Gasly,165.97619047619048
+2023,Saudi Arabian Grand Prix,Zhou Guanyu,164.0900974025974
+2023,Saudi Arabian Grand Prix,Carlos Sainz,141.4569805194805
+2023,Saudi Arabian Grand Prix,Lewis Hamilton,139.57088744588745
+2023,Saudi Arabian Grand Prix,Oscar Piastri,139.57088744588745
+2023,Saudi Arabian Grand Prix,Nico Hulkenberg,109.39339826839827
+2023,Saudi Arabian Grand Prix,Lance Stroll,75.44372294372295
+2023,Saudi Arabian Grand Prix,Lando Norris,54.696699134199136
+2023,Saudi Arabian Grand Prix,Valtteri Bottas,47.15232683982684
+2023,Saudi Arabian Grand Prix,Fernando Alonso,37.72186147186147
+2023,Saudi Arabian Grand Prix,Sergio Perez,37.72186147186147
+2023,Singapore Grand Prix,Max Verstappen,373.659948542024
+2023,Singapore Grand Prix,Sergio Perez,367.6813893653516
+2023,Singapore Grand Prix,Kevin Magnussen,297.43331903945113
+2023,Singapore Grand Prix,Pierre Gasly,245.12092624356777
+2023,Singapore Grand Prix,Fernando Alonso,234.65844768439106
+2023,Singapore Grand Prix,Oscar Piastri,221.2066895368782
+2023,Singapore Grand Prix,Alexander Albon,194.30317324185248
+2023,Singapore Grand Prix,Lewis Hamilton,176.36749571183532
+2023,Singapore Grand Prix,Liam Lawson,164.41037735849056
+2023,Singapore Grand Prix,Charles Leclerc,152.45325900514578
+2023,Singapore Grand Prix,Zhou Guanyu,141.9907804459691
+2023,Singapore Grand Prix,Lando Norris,131.52830188679243
+2023,Singapore Grand Prix,Valtteri Bottas,128.53902229845625
+2023,Singapore Grand Prix,Nico Hulkenberg,124.05510291595198
+2023,Singapore Grand Prix,George Russell,109.108704974271
+2023,Singapore Grand Prix,Esteban Ocon,106.11942538593482
+2023,Singapore Grand Prix,Logan Sargeant,62.77487135506003
+2023,Singapore Grand Prix,Yuki Tsunoda,35.871355060034304
+2023,Spanish Grand Prix,Sergio Perez,241.63065007618079
+2023,Spanish Grand Prix,Zhou Guanyu,225.69895886236668
+2023,Spanish Grand Prix,Yuki Tsunoda,217.7331132554596
+2023,Spanish Grand Prix,George Russell,200.9163280853225
+2023,Spanish Grand Prix,Lance Stroll,200.9163280853225
+2023,Spanish Grand Prix,Pierre Gasly,200.03123412899947
+2023,Spanish Grand Prix,Oscar Piastri,188.5250126968004
+2023,Spanish Grand Prix,Charles Leclerc,187.63991874047738
+2023,Spanish Grand Prix,Fernando Alonso,176.1336973082783
+2023,Spanish Grand Prix,Esteban Ocon,161.0871000507872
+2023,Spanish Grand Prix,Nico Hulkenberg,149.58087861858812
+2023,Spanish Grand Prix,Carlos Sainz,146.04050279329607
+2023,Spanish Grand Prix,Alexander Albon,131.87899949212797
+2023,Spanish Grand Prix,Nyck de Vries,117.71749619095988
+2023,Spanish Grand Prix,Kevin Magnussen,106.2112747587608
+2023,Spanish Grand Prix,Lewis Hamilton,96.47524123920772
+2023,Spanish Grand Prix,Logan Sargeant,81.4286439817166
+2023,Spanish Grand Prix,Lando Norris,61.95657694261046
+2023,Spanish Grand Prix,Valtteri Bottas,53.9907313357034
+2023,Spanish Grand Prix,Max Verstappen,17.70187912646013
+2023,United States Grand Prix,Lance Stroll,278.4559228650138
+2023,United States Grand Prix,Sergio Perez,241.00840220385675
+2023,United States Grand Prix,George Russell,235.24724517906336
+2023,United States Grand Prix,Max Verstappen,230.44628099173553
+2023,United States Grand Prix,Fernando Alonso,225.6453168044077
+2023,United States Grand Prix,Carlos Sainz,200.68030303030304
+2023,United States Grand Prix,Lewis Hamilton,179.5560606060606
+2023,United States Grand Prix,Daniel Ricciardo,169.95413223140497
+2023,United States Grand Prix,Pierre Gasly,163.232782369146
+2023,United States Grand Prix,Lando Norris,157.47162534435262
+2023,United States Grand Prix,Yuki Tsunoda,150.75027548209366
+2023,United States Grand Prix,Charles Leclerc,141.148347107438
+2023,United States Grand Prix,Alexander Albon,137.30757575757576
+2023,United States Grand Prix,Nico Hulkenberg,135.38719008264462
+2023,United States Grand Prix,Logan Sargeant,130.5862258953168
+2023,United States Grand Prix,Valtteri Bottas,121.94449035812673
+2023,United States Grand Prix,Zhou Guanyu,119.06391184573003
+2023,United States Grand Prix,Kevin Magnussen,96.01928374655648
+2023,United States Grand Prix,Esteban Ocon,53.770798898071625
+2023,United States Grand Prix,Oscar Piastri,51.85041322314049
+2024,Abu Dhabi Grand Prix,Max Verstappen,254.84927983539097
+2024,Abu Dhabi Grand Prix,Lewis Hamilton,226.19152949245543
+2024,Abu Dhabi Grand Prix,Charles Leclerc,219.02709190672155
+2024,Abu Dhabi Grand Prix,Yuki Tsunoda,199.58076131687244
+2024,Abu Dhabi Grand Prix,Lance Stroll,198.5572702331962
+2024,Abu Dhabi Grand Prix,George Russell,155.5706447187929
+2024,Abu Dhabi Grand Prix,Liam Lawson,153.52366255144034
+2024,Abu Dhabi Grand Prix,Pierre Gasly,150.45318930041154
+2024,Abu Dhabi Grand Prix,Jack Doohan,144.31224279835394
+2024,Abu Dhabi Grand Prix,Oscar Piastri,144.31224279835394
+2024,Abu Dhabi Grand Prix,Zhou Guanyu,126.91289437585735
+2024,Abu Dhabi Grand Prix,Fernando Alonso,110.53703703703705
+2024,Abu Dhabi Grand Prix,Kevin Magnussen,110.53703703703705
+2024,Abu Dhabi Grand Prix,Nico Hulkenberg,98.25514403292182
+2024,Abu Dhabi Grand Prix,Alexander Albon,93.13768861454048
+2024,Abu Dhabi Grand Prix,Carlos Sainz,57.315500685871065
+2024,Abu Dhabi Grand Prix,Sergio Perez,52.19804526748972
+2024,Abu Dhabi Grand Prix,Valtteri Bottas,42.9866255144033
+2024,Abu Dhabi Grand Prix,Franco Colapinto,5.117455418381345
+2024,Australian Grand Prix,Charles Leclerc,341.82661927330173
+2024,Australian Grand Prix,Pierre Gasly,259.3167456556082
+2024,Australian Grand Prix,Fernando Alonso,251.06575829383888
+2024,Australian Grand Prix,Sergio Perez,228.67022116903635
+2024,Australian Grand Prix,Nico Hulkenberg,225.13408372827806
+2024,Australian Grand Prix,Lance Stroll,150.87519747235388
+2024,Australian Grand Prix,George Russell,149.69648499210112
+2024,Australian Grand Prix,Esteban Ocon,141.44549763033177
+2024,Australian Grand Prix,Oscar Piastri,134.37322274881518
+2024,Australian Grand Prix,Kevin Magnussen,133.1945102685624
+2024,Australian Grand Prix,Yuki Tsunoda,133.1945102685624
+2024,Australian Grand Prix,Alexander Albon,121.40738546603475
+2024,Australian Grand Prix,Daniel Ricciardo,91.93957345971565
+2024,Australian Grand Prix,Valtteri Bottas,88.40343601895735
+2024,Australian Grand Prix,Lando Norris,86.04601105845182
+2024,Australian Grand Prix,Zhou Guanyu,78.97373617693523
+2024,Australian Grand Prix,Lewis Hamilton,58.93562401263823
+2024,Australian Grand Prix,Carlos Sainz,47.148499210110586
+2024,Australian Grand Prix,Max Verstappen,3.536137440758294
+2024,Austrian Grand Prix,Oscar Piastri,219.71779141104295
+2024,Austrian Grand Prix,Nico Hulkenberg,202.17088445807772
+2024,Austrian Grand Prix,Kevin Magnussen,173.18034253578733
+2024,Austrian Grand Prix,Pierre Gasly,170.89161554192228
+2024,Austrian Grand Prix,Esteban Ocon,157.92216257668713
+2024,Austrian Grand Prix,Yuki Tsunoda,152.58179959100204
+2024,Austrian Grand Prix,Lance Stroll,147.24143660531698
+2024,Austrian Grand Prix,Alexander Albon,132.74616564417178
+2024,Austrian Grand Prix,Daniel Ricciardo,125.87998466257669
+2024,Austrian Grand Prix,Charles Leclerc,123.59125766871165
+2024,Austrian Grand Prix,George Russell,123.59125766871165
+2024,Austrian Grand Prix,Carlos Sainz,106.04435071574642
+2024,Austrian Grand Prix,Lewis Hamilton,104.5185327198364
+2024,Austrian Grand Prix,Fernando Alonso,100.70398773006134
+2024,Austrian Grand Prix,Sergio Perez,95.36362474437628
+2024,Austrian Grand Prix,Valtteri Bottas,77.81671779141104
+2024,Austrian Grand Prix,Lando Norris,74.765081799591
+2024,Austrian Grand Prix,Zhou Guanyu,67.1359918200409
+2024,Austrian Grand Prix,Max Verstappen,60.26981083844581
+2024,Austrian Grand Prix,Logan Sargeant,7.629089979550102
+2024,Azerbaijan Grand Prix,Lando Norris,294.81718164794006
+2024,Azerbaijan Grand Prix,Alexander Albon,241.72214419475657
+2024,Azerbaijan Grand Prix,Nico Hulkenberg,198.40777153558054
+2024,Azerbaijan Grand Prix,Oliver Bearman,177.4492041198502
+2024,Azerbaijan Grand Prix,George Russell,176.05196629213484
+2024,Azerbaijan Grand Prix,Sergio Perez,171.86025280898878
+2024,Azerbaijan Grand Prix,Max Verstappen,162.07958801498128
+2024,Azerbaijan Grand Prix,Lewis Hamilton,159.28511235955057
+2024,Azerbaijan Grand Prix,Carlos Sainz,150.90168539325845
+2024,Azerbaijan Grand Prix,Pierre Gasly,149.50444756554307
+2024,Azerbaijan Grand Prix,Franco Colapinto,129.9431179775281
+2024,Azerbaijan Grand Prix,Daniel Ricciardo,128.54588014981275
+2024,Azerbaijan Grand Prix,Fernando Alonso,113.17626404494382
+2024,Azerbaijan Grand Prix,Charles Leclerc,81.03979400749064
+2024,Azerbaijan Grand Prix,Zhou Guanyu,69.86189138576779
+2024,Azerbaijan Grand Prix,Oscar Piastri,53.09503745318352
+2024,Azerbaijan Grand Prix,Esteban Ocon,50.300561797752806
+2024,Azerbaijan Grand Prix,Lance Stroll,48.903323970037455
+2024,Azerbaijan Grand Prix,Valtteri Bottas,44.71161048689139
+2024,Azerbaijan Grand Prix,Yuki Tsunoda,13.97237827715356
+2024,Bahrain Grand Prix,Charles Leclerc,223.47705314009664
+2024,Bahrain Grand Prix,Yuki Tsunoda,209.05917874396138
+2024,Bahrain Grand Prix,Fernando Alonso,202.45098631239938
+2024,Bahrain Grand Prix,George Russell,188.03311191626412
+2024,Bahrain Grand Prix,Lando Norris,171.81300322061193
+2024,Bahrain Grand Prix,Sergio Perez,165.80555555555557
+2024,Bahrain Grand Prix,Alexander Albon,160.9995974235105
+2024,Bahrain Grand Prix,Oscar Piastri,159.7981078904992
+2024,Bahrain Grand Prix,Carlos Sainz,151.3876811594203
+2024,Bahrain Grand Prix,Lewis Hamilton,140.57427536231884
+2024,Bahrain Grand Prix,Lance Stroll,127.9586352657005
+2024,Bahrain Grand Prix,Zhou Guanyu,118.34671900161032
+2024,Bahrain Grand Prix,Kevin Magnussen,112.94001610305959
+2024,Bahrain Grand Prix,Daniel Ricciardo,110.53703703703705
+2024,Bahrain Grand Prix,Nico Hulkenberg,88.91022544283415
+2024,Bahrain Grand Prix,Max Verstappen,86.5072463768116
+2024,Bahrain Grand Prix,Valtteri Bottas,67.88415861513688
+2024,Bahrain Grand Prix,Esteban Ocon,57.07075281803543
+2024,Bahrain Grand Prix,Pierre Gasly,44.45511272141707
+2024,Bahrain Grand Prix,Logan Sargeant,31.839472624798717
+2024,Belgian Grand Prix,Max Verstappen,208.08266932270917
+2024,Belgian Grand Prix,George Russell,196.1922310756972
+2024,Belgian Grand Prix,Lando Norris,190.24701195219126
+2024,Belgian Grand Prix,Oscar Piastri,189.25614209827359
+2024,Belgian Grand Prix,Esteban Ocon,185.29266268260292
+2024,Belgian Grand Prix,Fernando Alonso,176.37483399734396
+2024,Belgian Grand Prix,Carlos Sainz,173.40222443559097
+2024,Belgian Grand Prix,Lewis Hamilton,163.49352589641433
+2024,Belgian Grand Prix,Valtteri Bottas,127.82221115537848
+2024,Belgian Grand Prix,Kevin Magnussen,124.8496015936255
+2024,Belgian Grand Prix,Lance Stroll,124.8496015936255
+2024,Belgian Grand Prix,Charles Leclerc,122.86786188579018
+2024,Belgian Grand Prix,Sergio Perez,120.88612217795485
+2024,Belgian Grand Prix,Yuki Tsunoda,108.00481407702523
+2024,Belgian Grand Prix,Alexander Albon,104.04133466135458
+2024,Belgian Grand Prix,Daniel Ricciardo,104.04133466135458
+2024,Belgian Grand Prix,Pierre Gasly,84.22393758300133
+2024,Belgian Grand Prix,Nico Hulkenberg,69.36088977423638
+2024,Belgian Grand Prix,Logan Sargeant,31.707835325365206
+2024,Belgian Grand Prix,Zhou Guanyu,4.954349269588313
+2024,British Grand Prix,Max Verstappen,259.07118055555554
+2024,British Grand Prix,Oscar Piastri,259.07118055555554
+2024,British Grand Prix,Carlos Sainz,244.56319444444446
+2024,British Grand Prix,Nico Hulkenberg,211.40208333333334
+2024,British Grand Prix,Lance Stroll,198.96666666666667
+2024,British Grand Prix,Lando Norris,196.89409722222223
+2024,British Grand Prix,Logan Sargeant,176.16840277777777
+2024,British Grand Prix,Kevin Magnussen,165.80555555555554
+2024,British Grand Prix,Lewis Hamilton,161.66041666666666
+2024,British Grand Prix,Fernando Alonso,159.58784722222222
+2024,British Grand Prix,Yuki Tsunoda,157.51527777777778
+2024,British Grand Prix,Charles Leclerc,140.93472222222223
+2024,British Grand Prix,Alexander Albon,134.71701388888889
+2024,British Grand Prix,Daniel Ricciardo,87.04791666666668
+2024,British Grand Prix,Sergio Perez,72.53993055555556
+2024,British Grand Prix,Esteban Ocon,55.959374999999994
+2024,British Grand Prix,Valtteri Bottas,51.814236111111114
+2024,British Grand Prix,George Russell,35.23368055555556
+2024,British Grand Prix,Zhou Guanyu,35.23368055555556
+2024,Canadian Grand Prix,Nico Hulkenberg,260.78155339805824
+2024,Canadian Grand Prix,Lewis Hamilton,219.73260517799352
+2024,Canadian Grand Prix,Kevin Magnussen,211.28135113268607
+2024,Canadian Grand Prix,Lando Norris,159.3665048543689
+2024,Canadian Grand Prix,Pierre Gasly,150.9152508090615
+2024,Canadian Grand Prix,Daniel Ricciardo,140.04935275080905
+2024,Canadian Grand Prix,Esteban Ocon,140.04935275080905
+2024,Canadian Grand Prix,Valtteri Bottas,126.76881067961165
+2024,Canadian Grand Prix,Yuki Tsunoda,117.11023462783172
+2024,Canadian Grand Prix,George Russell,109.86630258899676
+2024,Canadian Grand Prix,Alexander Albon,105.0370145631068
+2024,Canadian Grand Prix,Carlos Sainz,95.37843851132686
+2024,Canadian Grand Prix,Lance Stroll,94.17111650485437
+2024,Canadian Grand Prix,Sergio Perez,90.54915048543688
+2024,Canadian Grand Prix,Oscar Piastri,85.71986245954692
+2024,Canadian Grand Prix,Zhou Guanyu,79.68325242718446
+2024,Canadian Grand Prix,Max Verstappen,71.23199838187702
+2024,Canadian Grand Prix,Charles Leclerc,70.02467637540452
+2024,Canadian Grand Prix,Fernando Alonso,57.95145631067961
+2024,Canadian Grand Prix,Logan Sargeant,30.183050161812297
+2024,Chinese Grand Prix,Carlos Sainz,201.8055210918114
+2024,Chinese Grand Prix,Kevin Magnussen,185.1426799007444
+2024,Chinese Grand Prix,Fernando Alonso,164.77698511166253
+2024,Chinese Grand Prix,George Russell,154.90270885028949
+2024,Chinese Grand Prix,Nico Hulkenberg,150.5827129859388
+2024,Chinese Grand Prix,Sergio Perez,150.5827129859388
+2024,Chinese Grand Prix,Daniel Ricciardo,148.73128618693136
+2024,Chinese Grand Prix,Lance Stroll,130.2170181968569
+2024,Chinese Grand Prix,Charles Leclerc,121.5770264681555
+2024,Chinese Grand Prix,Lewis Hamilton,115.40560380479735
+2024,Chinese Grand Prix,Logan Sargeant,114.17131927212571
+2024,Chinese Grand Prix,Zhou Guanyu,100.5941894127378
+2024,Chinese Grand Prix,Esteban Ocon,100.59418941273779
+2024,Chinese Grand Prix,Oscar Piastri,99.97704714640199
+2024,Chinese Grand Prix,Pierre Gasly,95.65705128205128
+2024,Chinese Grand Prix,Max Verstappen,81.46277915632754
+2024,Chinese Grand Prix,Alexander Albon,75.2913564929694
+2024,Chinese Grand Prix,Yuki Tsunoda,66.65136476426798
+2024,Chinese Grand Prix,Valtteri Bottas,66.03422249793218
+2024,Chinese Grand Prix,Lando Norris,59.24565756823821
+2024,Dutch Grand Prix,Valtteri Bottas,211.9218917470525
+2024,Dutch Grand Prix,Carlos Sainz,210.32248124330118
+2024,Dutch Grand Prix,Fernando Alonso,197.52719721329046
+2024,Dutch Grand Prix,Pierre Gasly,192.72896570203645
+2024,Dutch Grand Prix,Lewis Hamilton,173.53603965702035
+2024,Dutch Grand Prix,Sergio Perez,168.73780814576634
+2024,Dutch Grand Prix,Nico Hulkenberg,166.33869239013933
+2024,Dutch Grand Prix,Charles Leclerc,161.5404608788853
+2024,Dutch Grand Prix,George Russell,141.54782958199357
+2024,Dutch Grand Prix,Max Verstappen,138.34900857449088
+2024,Dutch Grand Prix,Daniel Ricciardo,136.74959807073955
+2024,Dutch Grand Prix,Oscar Piastri,128.75254555198285
+2024,Dutch Grand Prix,Lance Stroll,112.75844051446946
+2024,Dutch Grand Prix,Alexander Albon,85.56846195069667
+2024,Dutch Grand Prix,Kevin Magnussen,75.17229367631298
+2024,Dutch Grand Prix,Esteban Ocon,63.17671489817792
+2024,Dutch Grand Prix,Lando Norris,61.577304394426584
+2024,Dutch Grand Prix,Yuki Tsunoda,59.17818863879957
+2024,Dutch Grand Prix,Logan Sargeant,49.581725616291536
+2024,Dutch Grand Prix,Zhou Guanyu,47.98231511254019
+2024,Emilia Romagna Grand Prix,Sergio Perez,278.6281328320802
+2024,Emilia Romagna Grand Prix,Lance Stroll,248.70833333333334
+2024,Emilia Romagna Grand Prix,Lewis Hamilton,235.6184210526316
+2024,Emilia Romagna Grand Prix,Charles Leclerc,201.9586466165414
+2024,Emilia Romagna Grand Prix,Carlos Sainz,170.16885964912282
+2024,Emilia Romagna Grand Prix,Kevin Magnussen,162.6889097744361
+2024,Emilia Romagna Grand Prix,Lando Norris,158.94893483709274
+2024,Emilia Romagna Grand Prix,Oscar Piastri,147.72901002506268
+2024,Emilia Romagna Grand Prix,Esteban Ocon,134.63909774436092
+2024,Emilia Romagna Grand Prix,Yuki Tsunoda,130.89912280701756
+2024,Emilia Romagna Grand Prix,Zhou Guanyu,114.06923558897245
+2024,Emilia Romagna Grand Prix,Max Verstappen,106.58928571428572
+2024,Emilia Romagna Grand Prix,George Russell,100.97932330827068
+2024,Emilia Romagna Grand Prix,Nico Hulkenberg,86.01942355889724
+2024,Emilia Romagna Grand Prix,Daniel Ricciardo,84.14943609022556
+2024,Emilia Romagna Grand Prix,Logan Sargeant,78.53947368421053
+2024,Emilia Romagna Grand Prix,Valtteri Bottas,74.79949874686717
+2024,Emilia Romagna Grand Prix,Pierre Gasly,50.48966165413534
+2024,Emilia Romagna Grand Prix,Fernando Alonso,44.8796992481203
+2024,Hungarian Grand Prix,Lewis Hamilton,181.31027353689566
+2024,Hungarian Grand Prix,Sergio Perez,165.17270992366412
+2024,Hungarian Grand Prix,Max Verstappen,158.52783078880407
+2024,Hungarian Grand Prix,George Russell,156.62929389312978
+2024,Hungarian Grand Prix,Carlos Sainz,150.93368320610688
+2024,Hungarian Grand Prix,Alexander Albon,134.79611959287533
+2024,Hungarian Grand Prix,Charles Leclerc,132.89758269720102
+2024,Hungarian Grand Prix,Valtteri Bottas,128.15124045801525
+2024,Hungarian Grand Prix,Lando Norris,123.40489821882952
+2024,Hungarian Grand Prix,Oscar Piastri,110.11513994910942
+2024,Hungarian Grand Prix,Kevin Magnussen,108.21660305343511
+2024,Hungarian Grand Prix,Daniel Ricciardo,102.52099236641222
+2024,Hungarian Grand Prix,Nico Hulkenberg,98.7239185750636
+2024,Hungarian Grand Prix,Yuki Tsunoda,94.92684478371501
+2024,Hungarian Grand Prix,Logan Sargeant,93.97757633587787
+2024,Hungarian Grand Prix,Fernando Alonso,88.28196564885496
+2024,Hungarian Grand Prix,Lance Stroll,87.33269720101781
+2024,Hungarian Grand Prix,Pierre Gasly,78.78928117048346
+2024,Hungarian Grand Prix,Zhou Guanyu,63.60098600508906
+2024,Hungarian Grand Prix,Esteban Ocon,59.80391221374046
+2024,Italian Grand Prix,Sergio Perez,217.75796296296295
+2024,Italian Grand Prix,George Russell,211.12574074074072
+2024,Italian Grand Prix,Lando Norris,184.59685185185185
+2024,Italian Grand Prix,Charles Leclerc,177.96462962962963
+2024,Italian Grand Prix,Fernando Alonso,164.70018518518518
+2024,Italian Grand Prix,Max Verstappen,164.70018518518518
+2024,Italian Grand Prix,Esteban Ocon,161.38407407407408
+2024,Italian Grand Prix,Carlos Sainz,159.17333333333332
+2024,Italian Grand Prix,Kevin Magnussen,151.43574074074073
+2024,Italian Grand Prix,Lewis Hamilton,150.33037037037036
+2024,Italian Grand Prix,Alexander Albon,135.96055555555554
+2024,Italian Grand Prix,Lance Stroll,131.53907407407408
+2024,Italian Grand Prix,Oscar Piastri,106.11555555555556
+2024,Italian Grand Prix,Valtteri Bottas,105.01018518518518
+2024,Italian Grand Prix,Franco Colapinto,102.79944444444443
+2024,Italian Grand Prix,Daniel Ricciardo,88.42962962962963
+2024,Italian Grand Prix,Zhou Guanyu,68.53296296296296
+2024,Italian Grand Prix,Pierre Gasly,67.42759259259259
+2024,Italian Grand Prix,Nico Hulkenberg,43.10944444444444
+2024,Italian Grand Prix,Yuki Tsunoda,23.212777777777777
+2024,Japanese Grand Prix,George Russell,235.00829802259886
+2024,Japanese Grand Prix,Charles Leclerc,212.87747175141243
+2024,Japanese Grand Prix,Carlos Sainz,199.17743644067798
+2024,Japanese Grand Prix,Lando Norris,193.9081920903955
+2024,Japanese Grand Prix,Lance Stroll,190.746645480226
+2024,Japanese Grand Prix,Lewis Hamilton,187.5850988700565
+2024,Japanese Grand Prix,Yuki Tsunoda,160.18502824858757
+2024,Japanese Grand Prix,Oscar Piastri,157.02348163841808
+2024,Japanese Grand Prix,Nico Hulkenberg,154.91578389830508
+2024,Japanese Grand Prix,Esteban Ocon,148.5926906779661
+2024,Japanese Grand Prix,Valtteri Bottas,138.05420197740114
+2024,Japanese Grand Prix,Sergio Perez,130.67725988700565
+2024,Japanese Grand Prix,Kevin Magnussen,123.30031779661017
+2024,Japanese Grand Prix,Logan Sargeant,115.92337570621469
+2024,Japanese Grand Prix,Fernando Alonso,113.8156779661017
+2024,Japanese Grand Prix,Pierre Gasly,79.03866525423729
+2024,Japanese Grand Prix,Max Verstappen,62.177083333333336
+2024,Japanese Grand Prix,Zhou Guanyu,44.26165254237288
+2024,Japanese Grand Prix,Daniel Ricciardo,8.430790960451978
+2024,Japanese Grand Prix,Alexander Albon,6.323093220338983
+2024,Las Vegas Grand Prix,Lewis Hamilton,242.71536144578315
+2024,Las Vegas Grand Prix,Nico Hulkenberg,214.24874497991968
+2024,Las Vegas Grand Prix,Charles Leclerc,197.01895080321287
+2024,Las Vegas Grand Prix,Sergio Perez,188.77861445783134
+2024,Las Vegas Grand Prix,Oscar Piastri,176.79267068273094
+2024,Las Vegas Grand Prix,Carlos Sainz,170.79969879518072
+2024,Las Vegas Grand Prix,Max Verstappen,156.566390562249
+2024,Las Vegas Grand Prix,Lando Norris,155.06814759036146
+2024,Las Vegas Grand Prix,Kevin Magnussen,135.5909889558233
+2024,Las Vegas Grand Prix,Zhou Guanyu,134.09274598393574
+2024,Las Vegas Grand Prix,Liam Lawson,133.34362449799198
+2024,Las Vegas Grand Prix,Yuki Tsunoda,131.84538152610443
+2024,Las Vegas Grand Prix,Fernando Alonso,120.6085592369478
+2024,Las Vegas Grand Prix,Esteban Ocon,116.11383032128515
+2024,Las Vegas Grand Prix,Franco Colapinto,102.6296435742972
+2024,Las Vegas Grand Prix,Valtteri Bottas,92.89106425702812
+2024,Las Vegas Grand Prix,Alexander Albon,55.434989959839356
+2024,Las Vegas Grand Prix,Pierre Gasly,47.194653614457835
+2024,Las Vegas Grand Prix,George Russell,44.94728915662651
+2024,Las Vegas Grand Prix,Lance Stroll,40.45256024096386
+2024,Mexico City Grand Prix,Oscar Piastri,255.95226537216828
+2024,Mexico City Grand Prix,Max Verstappen,247.50101132686083
+2024,Mexico City Grand Prix,Liam Lawson,213.69599514563106
+2024,Mexico City Grand Prix,Lando Norris,208.86670711974108
+2024,Mexico City Grand Prix,Lewis Hamilton,206.45206310679612
+2024,Mexico City Grand Prix,Kevin Magnussen,179.89097896440128
+2024,Mexico City Grand Prix,Franco Colapinto,167.81775889967636
+2024,Mexico City Grand Prix,George Russell,159.36650485436894
+2024,Mexico City Grand Prix,Nico Hulkenberg,154.53721682847896
+2024,Mexico City Grand Prix,Valtteri Bottas,143.67131877022655
+2024,Mexico City Grand Prix,Esteban Ocon,117.11023462783172
+2024,Mexico City Grand Prix,Pierre Gasly,112.28094660194175
+2024,Mexico City Grand Prix,Lance Stroll,105.0370145631068
+2024,Mexico City Grand Prix,Sergio Perez,103.8296925566343
+2024,Mexico City Grand Prix,Zhou Guanyu,102.6223705501618
+2024,Mexico City Grand Prix,Charles Leclerc,66.40271035598705
+2024,Mexico City Grand Prix,Carlos Sainz,48.29288025889967
+2024,Mexico City Grand Prix,Yuki Tsunoda,43.463592233009706
+2024,Mexico City Grand Prix,Fernando Alonso,33.805016181229774
+2024,Mexico City Grand Prix,Alexander Albon,3.6219660194174756
+2024,Miami Grand Prix,Lewis Hamilton,220.48611111111111
+2024,Miami Grand Prix,Esteban Ocon,179.03472222222223
+2024,Miami Grand Prix,Yuki Tsunoda,152.5763888888889
+2024,Miami Grand Prix,Pierre Gasly,149.04861111111111
+2024,Miami Grand Prix,Nico Hulkenberg,141.11111111111111
+2024,Miami Grand Prix,Kevin Magnussen,140.22916666666669
+2024,Miami Grand Prix,Zhou Guanyu,138.4652777777778
+2024,Miami Grand Prix,Oscar Piastri,135.81944444444446
+2024,Miami Grand Prix,Fernando Alonso,122.59027777777779
+2024,Miami Grand Prix,Carlos Sainz,109.36111111111111
+2024,Miami Grand Prix,George Russell,109.36111111111111
+2024,Miami Grand Prix,Daniel Ricciardo,104.9513888888889
+2024,Miami Grand Prix,Sergio Perez,93.48611111111111
+2024,Miami Grand Prix,Alexander Albon,92.60416666666667
+2024,Miami Grand Prix,Lando Norris,79.375
+2024,Miami Grand Prix,Charles Leclerc,77.61111111111111
+2024,Miami Grand Prix,Lance Stroll,66.14583333333334
+2024,Miami Grand Prix,Logan Sargeant,66.14583333333334
+2024,Miami Grand Prix,Valtteri Bottas,48.50694444444445
+2024,Miami Grand Prix,Max Verstappen,32.63194444444445
+2024,Monaco Grand Prix,Lance Stroll,227.54166666666669
+2024,Monaco Grand Prix,Valtteri Bottas,206.375
+2024,Monaco Grand Prix,Pierre Gasly,195.79166666666669
+2024,Monaco Grand Prix,Fernando Alonso,190.5
+2024,Monaco Grand Prix,Logan Sargeant,190.5
+2024,Monaco Grand Prix,Zhou Guanyu,174.625
+2024,Monaco Grand Prix,Daniel Ricciardo,148.16666666666669
+2024,Monaco Grand Prix,Alexander Albon,132.29166666666669
+2024,Monaco Grand Prix,Esteban Ocon,121.70833333333334
+2024,Monaco Grand Prix,Lando Norris,95.25
+2024,Monaco Grand Prix,George Russell,89.95833333333334
+2024,Monaco Grand Prix,Max Verstappen,84.66666666666667
+2024,Monaco Grand Prix,Lewis Hamilton,79.375
+2024,Monaco Grand Prix,Yuki Tsunoda,74.08333333333334
+2024,Monaco Grand Prix,Nico Hulkenberg,47.625
+2024,Monaco Grand Prix,Kevin Magnussen,26.458333333333336
+2024,Qatar Grand Prix,Lando Norris,258.16703952274423
+2024,Qatar Grand Prix,George Russell,257.0542505592841
+2024,Qatar Grand Prix,Oscar Piastri,243.70078299776287
+2024,Qatar Grand Prix,Carlos Sainz,186.3921513795675
+2024,Qatar Grand Prix,Max Verstappen,174.15147278150636
+2024,Qatar Grand Prix,Fernando Alonso,170.256711409396
+2024,Qatar Grand Prix,Kevin Magnussen,168.58752796420583
+2024,Qatar Grand Prix,Pierre Gasly,151.3392990305742
+2024,Qatar Grand Prix,Lewis Hamilton,149.67011558538405
+2024,Qatar Grand Prix,Valtteri Bottas,145.21895973154363
+2024,Qatar Grand Prix,Charles Leclerc,130.75270320656227
+2024,Qatar Grand Prix,Yuki Tsunoda,127.41433631618196
+2024,Qatar Grand Prix,Zhou Guanyu,108.49692393736018
+2024,Qatar Grand Prix,Alexander Albon,104.60216256524983
+2024,Qatar Grand Prix,Liam Lawson,103.48937360178971
+2024,Qatar Grand Prix,Nico Hulkenberg,91.80508948545862
+2024,Qatar Grand Prix,Sergio Perez,85.128355704698
+2024,Qatar Grand Prix,Lance Stroll,61.759787472035796
+2024,Qatar Grand Prix,Esteban Ocon,27.263329604772558
+2024,Qatar Grand Prix,Franco Colapinto,3.8947613721103655
+2024,Sao Paulo Grand Prix,Max Verstappen,217.21251819505096
+2024,Sao Paulo Grand Prix,Yuki Tsunoda,209.61008005822418
+2024,Sao Paulo Grand Prix,Lewis Hamilton,207.43795487627366
+2024,Sao Paulo Grand Prix,Oliver Bearman,188.97489082969435
+2024,Sao Paulo Grand Prix,Sergio Perez,168.3397016011645
+2024,Sao Paulo Grand Prix,Pierre Gasly,159.65120087336246
+2024,Sao Paulo Grand Prix,Charles Leclerc,144.4463245997089
+2024,Sao Paulo Grand Prix,Oscar Piastri,137.92994905385737
+2024,Sao Paulo Grand Prix,Valtteri Bottas,131.41357350800584
+2024,Sao Paulo Grand Prix,Liam Lawson,125.98326055312955
+2024,Sao Paulo Grand Prix,Nico Hulkenberg,116.20869723435226
+2024,Sao Paulo Grand Prix,Franco Colapinto,106.43413391557498
+2024,Sao Paulo Grand Prix,Fernando Alonso,96.65957059679768
+2024,Sao Paulo Grand Prix,Esteban Ocon,95.57350800582242
+2024,Sao Paulo Grand Prix,Carlos Sainz,71.68013100436681
+2024,Sao Paulo Grand Prix,Zhou Guanyu,66.24981804949054
+2024,Sao Paulo Grand Prix,George Russell,58.647379912663766
+2024,Sao Paulo Grand Prix,Lando Norris,56.475254730713246
+2024,Sao Paulo Grand Prix,Alexander Albon,36.92612809315867
+2024,Sao Paulo Grand Prix,Lance Stroll,5.430312954876275
+2024,Saudi Arabian Grand Prix,Lewis Hamilton,257.91975308641975
+2024,Saudi Arabian Grand Prix,Lando Norris,241.7997685185185
+2024,Saudi Arabian Grand Prix,Oliver Bearman,234.8912037037037
+2024,Saudi Arabian Grand Prix,Nico Hulkenberg,232.5883487654321
+2024,Saudi Arabian Grand Prix,Oscar Piastri,225.67978395061726
+2024,Saudi Arabian Grand Prix,Zhou Guanyu,175.01697530864197
+2024,Saudi Arabian Grand Prix,Sergio Perez,172.71412037037038
+2024,Saudi Arabian Grand Prix,Kevin Magnussen,170.41126543209876
+2024,Saudi Arabian Grand Prix,Charles Leclerc,161.19984567901236
+2024,Saudi Arabian Grand Prix,Alexander Albon,133.5655864197531
+2024,Saudi Arabian Grand Prix,George Russell,131.26273148148147
+2024,Saudi Arabian Grand Prix,Esteban Ocon,119.74845679012346
+2024,Saudi Arabian Grand Prix,Yuki Tsunoda,112.83989197530863
+2024,Saudi Arabian Grand Prix,Fernando Alonso,71.38850308641975
+2024,Saudi Arabian Grand Prix,Logan Sargeant,57.57137345679012
+2024,Saudi Arabian Grand Prix,Lance Stroll,55.26851851851852
+2024,Saudi Arabian Grand Prix,Daniel Ricciardo,50.6628086419753
+2024,Saudi Arabian Grand Prix,Max Verstappen,46.057098765432094
+2024,Saudi Arabian Grand Prix,Valtteri Bottas,32.23996913580247
+2024,Saudi Arabian Grand Prix,Pierre Gasly,6.908564814814815
+2024,Singapore Grand Prix,Charles Leclerc,262.52546296296293
+2024,Singapore Grand Prix,Fernando Alonso,231.43692129629628
+2024,Singapore Grand Prix,Yuki Tsunoda,160.04841820987653
+2024,Singapore Grand Prix,Carlos Sainz,154.29128086419752
+2024,Singapore Grand Prix,Lewis Hamilton,147.3827160493827
+2024,Singapore Grand Prix,Sergio Perez,145.07986111111111
+2024,Singapore Grand Prix,Pierre Gasly,140.4741512345679
+2024,Singapore Grand Prix,Oscar Piastri,120.89988425925925
+2024,Singapore Grand Prix,Esteban Ocon,112.83989197530863
+2024,Singapore Grand Prix,George Russell,112.83989197530863
+2024,Singapore Grand Prix,Franco Colapinto,104.77989969135801
+2024,Singapore Grand Prix,Kevin Magnussen,88.65991512345678
+2024,Singapore Grand Prix,Alexander Albon,82.90277777777777
+2024,Singapore Grand Prix,Nico Hulkenberg,82.90277777777777
+2024,Singapore Grand Prix,Daniel Ricciardo,81.75135030864197
+2024,Singapore Grand Prix,Zhou Guanyu,71.38850308641975
+2024,Singapore Grand Prix,Lance Stroll,61.02565586419753
+2024,Singapore Grand Prix,Valtteri Bottas,48.3599537037037
+2024,Singapore Grand Prix,Max Verstappen,42.60281635802469
+2024,Spanish Grand Prix,George Russell,202.54091816367264
+2024,Spanish Grand Prix,Oscar Piastri,186.15893213572855
+2024,Spanish Grand Prix,Charles Leclerc,167.5430389221557
+2024,Spanish Grand Prix,Fernando Alonso,160.84131736526945
+2024,Spanish Grand Prix,Lewis Hamilton,155.62886726546907
+2024,Spanish Grand Prix,Sergio Perez,151.16105289421156
+2024,Spanish Grand Prix,Carlos Sainz,145.9486027944112
+2024,Spanish Grand Prix,Lance Stroll,144.45933133732535
+2024,Spanish Grand Prix,Lando Norris,142.97005988023952
+2024,Spanish Grand Prix,Nico Hulkenberg,137.0129740518962
+2024,Spanish Grand Prix,Zhou Guanyu,116.16317365269461
+2024,Spanish Grand Prix,Esteban Ocon,110.2060878243513
+2024,Spanish Grand Prix,Daniel Ricciardo,109.46145209580838
+2024,Spanish Grand Prix,Max Verstappen,101.27045908183632
+2024,Spanish Grand Prix,Alexander Albon,92.33483033932136
+2024,Spanish Grand Prix,Valtteri Bottas,90.10092315369262
+2024,Spanish Grand Prix,Pierre Gasly,84.88847305389221
+2024,Spanish Grand Prix,Kevin Magnussen,61.06012974051896
+2024,Spanish Grand Prix,Logan Sargeant,58.081586826347305
+2024,Spanish Grand Prix,Yuki Tsunoda,37.23178642714571
+2024,United States Grand Prix,Sergio Perez,169.8008701472557
+2024,United States Grand Prix,George Russell,166.8043842034806
+2024,United States Grand Prix,Liam Lawson,165.80555555555554
+2024,United States Grand Prix,Nico Hulkenberg,161.81024096385542
+2024,United States Grand Prix,Carlos Sainz,159.81258366800535
+2024,United States Grand Prix,Charles Leclerc,146.82781124497993
+2024,United States Grand Prix,Lando Norris,146.82781124497993
+2024,United States Grand Prix,Yuki Tsunoda,145.82898259705487
+2024,United States Grand Prix,Oscar Piastri,138.83718206157965
+2024,United States Grand Prix,Franco Colapinto,131.8453815261044
+2024,United States Grand Prix,Kevin Magnussen,129.84772423025436
+2024,United States Grand Prix,Fernando Alonso,116.86295180722891
+2024,United States Grand Prix,Alexander Albon,93.88989290495314
+2024,United States Grand Prix,Lance Stroll,91.89223560910308
+2024,United States Grand Prix,Pierre Gasly,91.89223560910308
+2024,United States Grand Prix,Max Verstappen,89.89457831325302
+2024,United States Grand Prix,Esteban Ocon,89.894578313253
+2024,United States Grand Prix,Valtteri Bottas,58.930890227576974
+2024,United States Grand Prix,Lewis Hamilton,49.94143239625167
+2024,United States Grand Prix,Zhou Guanyu,43.94846050870147

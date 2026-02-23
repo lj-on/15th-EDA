@@ -1,0 +1,8 @@
+# 시대별 가사 의미 변화 분석 필수 라이브러리
+pandas>=1.5.0
+openpyxl>=3.0.0
+gensim>=4.0.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+numpy>=1.21.0
+konlpy>=0.6.0
